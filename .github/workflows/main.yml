@@ -15,7 +15,7 @@ jobs:
       - name: check if branch is automatically created
         id: check-branch
         run: |
-          if [[ ${{ github.ref }} == *"/patch"* ]]; then
+          if [[ ${{ github.ref }} == *"patch"* ]]; then
             echo "branch is automatically created"
             echo "trigger_patch=true" >> $GITHUB_ENV
           else
