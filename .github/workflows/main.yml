@@ -20,8 +20,8 @@ jobs:
       - name: check if language-files have been changed in dev
         id: check-changes
         run: |
-          language_files=["public/locales/de/common.json" "public/locales/en/common.json" "public/locales/fr/common.json"]
-          changes=[]
+          language_files=("public/locales/de/common.json" "public/locales/en/common.json" "public/locales/fr/common.json")
+          changes=()
           
           for file in "${language_files[@]}"; do
             if git diff --name-only ${{ github.event.before }} ${{ github.sha }} -- "$file" | grep -q "$file"; then
@@ -30,8 +30,7 @@ jobs:
             fi
           done
 
-
-          if changes == []; then
+          if [ ${#changes[@]} -eq 0 ]; then
             echo "no changes detected"
           fi
           
