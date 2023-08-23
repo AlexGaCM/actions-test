@@ -12,26 +12,34 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: checkout dev
+      - name: set up git
+        run: |
+          git config --global user.email "${{ github.event.pull_request.user.email }}"
+          git config --global user.name "${{ github.event.pull_request.user.login }}"
+    
+      - name: checkout repository
         uses: actions/checkout@v2
-        with:
-          ref: dev
+
+      - name: fetch all history
+        run: git fetch --prune --unshallow
 
       - name: check if language-files have been changed in dev
         id: check-changes
         run: |
           language_files=("public/locales/de/common.json" "public/locales/en/common.json" "public/locales/fr/common.json")
           changes=()
+
+          changed_files=$(git diff --name-only ${{ github.event.pull_request.base.sha }}..${{ github.event.pull_request.head.sha }})
+          echo "$changed_files"
           
           for file in "${language_files[@]}"; do
-            if git diff --name-only ${{ github.event.before }} ${{ github.sha }} -- "$file" | grep -q "$file"; then
+            if git diff --name-only ${{ github.event.pull_request.base.sha }}..${{ github.event.pull_request.head.sha }} -- "$file" | grep -q "$file"; then
               changes+=("$file")
               echo "$file has been changed"
             fi
           done
 
-
-          if changes == (); then
+          if [ ${#changes[@]} -eq 0 ]; then
             echo "no changes detected"
           fi
           
@@ -41,8 +49,10 @@ jobs:
         if: env.changes != ''
         run: |
           git checkout main
+          
           for file in ${{ env.changes }}; do
-            git cherry-pick ${{ github.sha }} -- "$file"
+            git checkout dev -- "$file"  # Checkout the file from the dev branch
+            git add "$file"
           done
           
           git commit -m 'language file(s) changed'
