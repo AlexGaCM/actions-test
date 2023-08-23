@@ -30,6 +30,11 @@ jobs:
             fi
           done
 
+
+          if changes == (); then
+            echo "no changes detected"
+          fi
+          
           echo "changes=${changes[*]}" >> $GITHUB_ENV
 
       - name: merge changes into main
