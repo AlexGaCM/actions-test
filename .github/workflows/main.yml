@@ -25,7 +25,7 @@ jobs:
           changes=()
           
           for file in "${language_files[@]}"; do
-            if git diff --name-only ${{ github.event.before }} ${{ github.sha }} -- "$file" | grep -q "$file"; then
+            if git diff --name-only origin/dev -- "$file" | grep -q "$file"; then
               changes+=("$file")
               echo "$file has been changed"
             fi
