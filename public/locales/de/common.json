@@ -1,17 +1,17 @@
 {
   "api": {
     "banner": {
-      "button": "Jetzt kostenlose Beratung <br /> vereinbaren",
-      "header": "Individuelles Onboarding",
-      "text": "Im Rahmen eines detaillierten Onboardings identifizieren wir gemeinsam mit unseren Kunden die individuell beste Integrationsoption und berücksichtigen die kundenspezifischen Anforderungen bei der Anbindung. Kontaktieren Sie uns für weitere Infos und ein unverbindliches erstes Gespräch."
+      "button": "Jetzt OnboardingOnboardingOnboardingOnboardingOnboardingOnboarding Beratung <br /> vereinbaren",
+      "header": " Onboarding",
+      "text": "Im Rahmen eines detaillierten  identifizieren wir  mit unseren Kunden die individuell beste Integrationsoption und berücksichtigen die kundenspezifischen Anforderungen bei der Anbindung. Kontaktieren Sie uns für weitere Infos und ein unverbindliches erstes Gespräch."
     },
     "content": [
       {
-        "content": "Mit der einfachen Integration in existierende Systemlandschaften ist die Nutzung bestehender Workflows denkbar einfach. Damit kann jedes Unternehmen die Vorteile von Conversionmaker.ai <span className='font-bold'>effizient und kostengünstig</span> realisieren.",
+        "content": "Mit der einfachen  in existierende Systemlandschaften ist die Nutzung bestehender Workflows denkbar einfach. Damit kann jedes Unternehmen die Vorteile von Conversionmaker.ai <span className='font-bold'>effizient und kostengünstig</span> realisieren.",
         "header": "Automatisierung"
       },
       {
-        "content": "Für Technologiepartner und Großkunden steht mit unserer API und modernen SDKs zudem eine einfache Möglichkeit zur Verfügung, Conversionmaker.ai in ihre Systeme und Applikationen zu integrieren (z.B. PIM, CMS, Shopsysteme o.ä.). Damit bieten sich Chancen, von unserer modernen KI Technologie im kommerziellen Einsatz skalierbar zu profitieren.",
+        "content": "Für  und  steht mit unserer API und modernen SDKs zudem eine einfache Möglichkeit  Verfügung, Conversionmaker.ai in ihre Systeme und Applikationen zu integrieren (z.B. PIM, CMS, Shopsysteme o.ä.). Damit bieten sich Chancen, von unserer modernen KI Technologie im kommerziellen Einsatz skalierbar zu profitieren.",
         "header": "Individualisierung"
       }
     ],
@@ -19,14 +19,14 @@
     "title": "Integrations | Conversionmaker.ai"
   },
   "customerSlider": {
-    "heading": "Über 1.000 aktive Nutzer vertrauen bereits auf uns"
+    "heading": "Über 1.000 aktive Nutzer  bereits auf uns"
   },
   "emails": {
     "doi": {
       "content": "bitte bestätige deine Anmeldung bei Conversionmaker.ai mit einem Klick auf den folgenden Link. Anschließend kannst du direkt mit deinen ersten Projekten starten.<br><br><a href=\"{{confirmationLink}}\">{{confirmationLink}}</a><br><br>Bei Fragen kannst du uns gerne jederzeit eine E-Mail schreiben.<br><br>Viel Spaß beim Schreiben,<br>{{senderName}}",
       "content.marketing": "bitte bestätige deine Anmeldung bei Conversionmaker.ai. Mit einem Klick auf den Bestätigungslink bestätigst du außerdem, dass Conversion Maker dir zukünftig aktuelle Nachrichten, Informationen und Angebote rund um Conversionmaker.ai per E-Mail an die E-Mail-Adresse {{email}} übersenden darf. Diese Zustimmung kannst du jederzeit widerrufen. Nach dem Bestätigen deiner Anmeldung kannst du direkt mit deinen ersten Projekten starten.<br><br><a href=\"{{confirmationLink}}\">{{confirmationLink}}</a><br><br>Bei Fragen kannst du uns gerne jederzeit eine E-Mail schreiben.<br><br>Viel Spaß beim Schreiben,<br>{{senderName}}",
       "headline": "Hallo",
-      "subject": "👋 Willkommen im Conversionmaker.ai Team!",
+      "subject": "👋 Willkommen im .ai Team!",
       "title": "Willkommen bei Conversionmaker.ai"
     },
     "onboarding": {
@@ -38,17 +38,17 @@
     "subscription": {
       "content": "bitte bestätige jetzt deine Anmeldung für unseren Newsletter und erhalte regelmäßig relevante Updates.<br /><br /><a href=\"{{confirmationLink}}\">{{confirmationLink}}</a><br /><br />Mit Klick auf den Bestätigungslink bestätigst du, dass Conversion Maker dir zukünftig aktuelle Nachrichten, Informationen und Angebote rund um Conversionmaker.ai per E-Mail an die E-Mail-Adresse {{email}} übersenden darf. Diese Zustimmung kannst du jederzeit widerrufen.<br /><br />Viel Spaß beim Schreiben,<br>dein Conversionmaker.ai Team",
       "headline": "Hallo,",
-      "subject": "Bestätige jetzt deine Newsletter Anmeldung",
+      "subject": "Bestätige jetzt deine  Anmeldung",
       "title": "Dein Newsletter Abo"
     }
   },
   "faq": [
     {
-      "content": "Der Copy Score berechnet sich anhand eines gewichteten Regelwerks, welches auf deine Texte anwendet. Das Regelwerk resultiert aus jahrelangen Erfahrungen im Bereich Conversion Rate Optimierung und den Ergebnissen von tausenden von A/B-Tests.",
+      "content": "Der Copy Score berechnet sich anhand eines gewichteten Regelwerks, welches auf deine Texte anwendet. Das  resultiert aus jahrelangen Erfahrungen im Bereich Conversion Rate Optimierung und den Ergebnissen von tausenden von A/B-Tests.",
       "question": "Wie berechnet sich der Copy Score?"
     },
     {
-      "content": "Einen Copy Score von 100 erreichst du, indem du deinen Text mithilfe unserer Text-Optimierungsvorschläge verbesserst. Außerdem sollte dein Text frei von Grammatik- und Rechtschreibfehlern sein, auf deine Zielgruppe zugeschnitten und gut lesbar sein.",
+      "content": "Einen Copy Score von 100 erreichst du, indem du deinen Text mithilfe unserer Text-Optimierungsvorschläge . Außerdem sollte dein Text frei von Grammatik- und Rechtschreibfehlern sein, auf deine Zielgruppe zugeschnitten und gut lesbar sein.",
       "question": "Wie erreiche ich einen Copy Score von 100?"
     },
     {
@@ -168,7 +168,7 @@
       "events": "Events",
       "faq": "FAQ",
       "features": "Features",
-      "integrations": "Integrations",
+      "integrations": "Integration",
       "onboarding": "Onboarding",
       "plans": "Tarife",
       "product": "Produkt",
