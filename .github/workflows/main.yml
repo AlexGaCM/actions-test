@@ -1,23 +1,23 @@
-name: merge language-files from development into main
+name: merge language-files from dev into main
 
 on:
   pull_request:
     types:
       - closed
     branches:
-      - development
+      - dev
 
 jobs:
   cherrypick-files:
     runs-on: ubuntu-latest
 
     steps:
-      - name: checkout development
+      - name: checkout dev
         uses: actions/checkout@v2
         with:
-          ref: development
+          ref: dev
 
-      - name: check if language-files have been changed in development
+      - name: check if language-files have been changed in dev
         id: check-changes
         run: |
           language_files=("public/locales/de/common.json" "public/locales/en/common.json" "public/locales/fr/common.json")
