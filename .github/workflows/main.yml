@@ -12,18 +12,33 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: check if branch is automatically created
+        id: check-branch
+        run: |
+          if [[ ${{ github.ref }} == *"patch"* ]]; then
+            echo "branch is automatically created"
+            echo "trigger_patch=true" >> $GITHUB_ENV
+          else
+            echo "branch is not automatically created"
+            echo "trigger_patch=false" >> $GITHUB_ENV
+          fi
+          
       - name: set up git
+        if: env.trigger_patch == 'true'
         run: |
           git config --global user.email "${{ github.event.pull_request.user.email }}"
           git config --global user.name "${{ github.event.pull_request.user.login }}"
     
       - name: checkout repository
+        if: env.trigger_patch == 'true'
         uses: actions/checkout@v2
 
       - name: fetch all history
+        if: env.trigger_patch == 'true'
         run: git fetch --prune --unshallow
 
       - name: check if language-files have been changed in dev
+        if: env.trigger_patch == 'true'
         id: check-changes
         run: |
           language_files=("public/locales/de/common.json" "public/locales/en/common.json" "public/locales/fr/common.json")
@@ -43,7 +58,7 @@ jobs:
           echo "changes=${changes[*]}" >> $GITHUB_ENV
 
       - name: merge changes into main
-        if: env.changes != ''
+        if: env.changes != '' && env.trigger_patch == 'true'
         run: |
           git checkout main
           
