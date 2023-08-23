@@ -38,7 +38,7 @@
     "subscription": {
       "content": "bitte bestätige jetzt deine Anmeldung für unseren Newsletter und erhalte regelmäßig relevante Updates.<br /><br /><a href=\"{{confirmationLink}}\">{{confirmationLink}}</a><br /><br />Mit Klick auf den Bestätigungslink bestätigst du, dass Conversion Maker dir zukünftig aktuelle Nachrichten, Informationen und Angebote rund um Conversionmaker.ai per E-Mail an die E-Mail-Adresse {{email}} übersenden darf. Diese Zustimmung kannst du jederzeit widerrufen.<br /><br />Viel Spaß beim Schreiben,<br>dein Conversionmaker.ai Team",
       "headline": "Hallo,",
-      "subject": "Bestätige jetzt deine Newsletter Anmeldung",
+      "subject": "Bestätige jetzt deine  Anmeldung",
       "title": "Dein Newsletter Abo"
     }
   },
