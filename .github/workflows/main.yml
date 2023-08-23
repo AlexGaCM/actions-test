@@ -12,6 +12,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Set up Git
+        run: |
+          git config --global user.email "${{ github.event.pull_request.user.email }}"
+          git config --global user.name "${{ github.event.pull_request.user.login }}"
+    
       - name: checkout repository
         uses: actions/checkout@v2
 
