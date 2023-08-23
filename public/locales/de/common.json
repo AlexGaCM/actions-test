@@ -1,0 +1,1145 @@
+{
+  "api": {
+    "banner": {
+      "button": "Jetzt kostenlose Beratung <br /> vereinbaren",
+      "header": "Individuelles Onboarding",
+      "text": "Im Rahmen eines detaillierten Onboardings identifizieren wir gemeinsam mit unseren Kunden die individuell beste Integrationsoption und berücksichtigen die kundenspezifischen Anforderungen bei der Anbindung. Kontaktieren Sie uns für weitere Infos und ein unverbindliches erstes Gespräch."
+    },
+    "content": [
+      {
+        "content": "Mit der einfachen Integration in existierende Systemlandschaften ist die Nutzung bestehender Workflows denkbar einfach. Damit kann jedes Unternehmen die Vorteile von Conversionmaker.ai <span className='font-bold'>effizient und kostengünstig</span> realisieren.",
+        "header": "Automatisierung"
+      },
+      {
+        "content": "Für Technologiepartner und Großkunden steht mit unserer API und modernen SDKs zudem eine einfache Möglichkeit zur Verfügung, Conversionmaker.ai in ihre Systeme und Applikationen zu integrieren (z.B. PIM, CMS, Shopsysteme o.ä.). Damit bieten sich Chancen, von unserer modernen KI Technologie im kommerziellen Einsatz skalierbar zu profitieren.",
+        "header": "Individualisierung"
+      }
+    ],
+    "header": "Integration von Conversionmaker.ai <br /> in bestehende Systemwelt",
+    "title": "Integrations | Conversionmaker.ai"
+  },
+  "customerSlider": {
+    "heading": "Über 1.000 aktive Nutzer vertrauen bereits auf uns"
+  },
+  "emails": {
+    "doi": {
+      "content": "bitte bestätige deine Anmeldung bei Conversionmaker.ai mit einem Klick auf den folgenden Link. Anschließend kannst du direkt mit deinen ersten Projekten starten.<br><br><a href=\"{{confirmationLink}}\">{{confirmationLink}}</a><br><br>Bei Fragen kannst du uns gerne jederzeit eine E-Mail schreiben.<br><br>Viel Spaß beim Schreiben,<br>{{senderName}}",
+      "content.marketing": "bitte bestätige deine Anmeldung bei Conversionmaker.ai. Mit einem Klick auf den Bestätigungslink bestätigst du außerdem, dass Conversion Maker dir zukünftig aktuelle Nachrichten, Informationen und Angebote rund um Conversionmaker.ai per E-Mail an die E-Mail-Adresse {{email}} übersenden darf. Diese Zustimmung kannst du jederzeit widerrufen. Nach dem Bestätigen deiner Anmeldung kannst du direkt mit deinen ersten Projekten starten.<br><br><a href=\"{{confirmationLink}}\">{{confirmationLink}}</a><br><br>Bei Fragen kannst du uns gerne jederzeit eine E-Mail schreiben.<br><br>Viel Spaß beim Schreiben,<br>{{senderName}}",
+      "headline": "Hallo",
+      "subject": "👋 Willkommen im Conversionmaker.ai Team!",
+      "title": "Willkommen bei Conversionmaker.ai"
+    },
+    "onboarding": {
+      "content": "wir freuen uns, dass du Teil unseres Conversionmaker.ai Teams bist. Dein Konto ist nun vollständig eingerichtet und du kannst deine ersten Projekte anlegen.<br>Während deiner kostenlosen, {{trialPeriod}}-tägigen Testphase verfügst du über {{aiCredits}} Anfragen, um unsere KI umgehend zu testen und du hast die Möglichkeit deine bestehenden Texte unbegrenzt zu optimieren.<br><br>Du möchtest direkt starten?<br><br>Schau dir unser Produktvideo (https://www.youtube.com/channel/UC6XuBg9Y3MhOfY_JhrKGsUA/featured) an, welches dir die wichtigsten Schritte und Features erklärt und dir zeigt, wie du in kürzester Zeit hochwertige Texte erstellst, die deine Conversions steigern. 🚀<br><br>Viel Spaß beim Schreiben,<br>{{senderName}}",
+      "headline": "Hallo",
+      "subject": "✍🏼 Lass uns starten!",
+      "title": "Ready. Set. Go!"
+    },
+    "subscription": {
+      "content": "bitte bestätige jetzt deine Anmeldung für unseren Newsletter und erhalte regelmäßig relevante Updates.<br /><br /><a href=\"{{confirmationLink}}\">{{confirmationLink}}</a><br /><br />Mit Klick auf den Bestätigungslink bestätigst du, dass Conversion Maker dir zukünftig aktuelle Nachrichten, Informationen und Angebote rund um Conversionmaker.ai per E-Mail an die E-Mail-Adresse {{email}} übersenden darf. Diese Zustimmung kannst du jederzeit widerrufen.<br /><br />Viel Spaß beim Schreiben,<br>dein Conversionmaker.ai Team",
+      "headline": "Hallo,",
+      "subject": "Bestätige jetzt deine Newsletter Anmeldung",
+      "title": "Dein Newsletter Abo"
+    }
+  },
+  "faq": [
+    {
+      "content": "Der Copy Score berechnet sich anhand eines gewichteten Regelwerks, welches auf deine Texte anwendet. Das Regelwerk resultiert aus jahrelangen Erfahrungen im Bereich Conversion Rate Optimierung und den Ergebnissen von tausenden von A/B-Tests.",
+      "question": "Wie berechnet sich der Copy Score?"
+    },
+    {
+      "content": "Einen Copy Score von 100 erreichst du, indem du deinen Text mithilfe unserer Text-Optimierungsvorschläge verbesserst. Außerdem sollte dein Text frei von Grammatik- und Rechtschreibfehlern sein, auf deine Zielgruppe zugeschnitten und gut lesbar sein.",
+      "question": "Wie erreiche ich einen Copy Score von 100?"
+    },
+    {
+      "content": "Conversionmaker.ai unterschützt folgende Sprachen: <div class='pl-16 pt-4 grid sm:grid-cols-2'><li>Bulgarisch</li><li>Chinesisch</li><li>Dänisch</li><li>Deutsch (+ Österreich & Schweiz)</li><li>Englisch (GB + US)</li><li>Estnisch</li><li>Finnisch</li><li>Französisch</li><li>Griechisch</li><li>Indonisch</li><li>Italienisch</li><li>Japanisch</li><li>Koreanisch</li><li>Lettisch</li><li>Litauisch</li><li>Niederländisch</li><li>Norwegisch</li><li>Polnisch</li><li>Portugiesisch (+BR)</li><li>Rumänisch</li><li>Russisch</li><li>Schwedisch</li><li>Slowakisch</li><li>Slowenisch</li><li>Spanisch</li><li>Tschechisch</li><li>Türkisch</li><li>Ukrainisch</li><li>Ungarisch</li></div>",
+      "question": "Welche Sprachen werden unterstützt?"
+    },
+    {
+      "content": "Die Tonalität deines Textes legen wir gemeinsam im Onboarding fest. Wir analysieren deine Eingabe und deine Zielgruppe und wählen die Tonalität dann anhand der Ergebnisse tausender Tests für dich. Außerdem erhältst du von uns immer bis zu drei Textvorschläge in unterschiedlichen Tonalitäten, aus denen du auswählen kannst.",
+      "question": "Kann ich die Tonalität bei den Texten angeben?"
+    },
+    {
+      "content": "Derzeit bieten wir eine direkte Anbindung an Shopware, Shopify, Magento 2, Google Analytics an. Conversionmaker.ai lässt sich zudem  per REST API an jedes beliebige PIM-System, ERP-System oder CMS anbinden.",
+      "question": "Welche Integrationen in Shop- oder PIM-Systeme bietet ihr an?"
+    },
+    {
+      "content": "Ja, Conversionmaker.ai lässt sich über unsere API an jedes beliebige Marketing Tool anbinden. Hierzu musst du nur ein Projekt in unserer Software erstellen und schon kannst du Conversionmaker.ai in dein Marketing Tool integrieren.",
+      "question": "Kann ich Conversionmaker.ai mit bestehenden Marketing Tools koppeln?"
+    },
+    {
+      "content": "Du kannst deine Kollegen direkt über die Nutzerverwaltung in Conversionmaker.ai zu deinem bestehenden Projekt einladen. Diese erhalten dann einen Einladungs-Code von uns per E-Mail und können deine Einladung annehmen.",
+      "question": "Wie können andere meinem Projekt beitreten?"
+    },
+    {
+      "content": "Die kostenlose Testphase ist eine Light-Version unseres Professional Tarifs. Alle Features kannst du nur in der bezahlten Version für 7 Tage testen.",
+      "question": "Was ist in meiner kostenlosen Testphase enthalten?"
+    },
+    {
+      "content": "Nach dem Ende deiner Testphase kannst du jederzeit in den für dich passenden Tarif wechseln. Deine Testphase läuft nach dem Testzeitraum aus, ohne dass dir Kosten entstehen. Du musst die Testphase nicht kündigen.",
+      "question": "Was passiert nach dem Ende meiner Testphase?"
+    },
+    {
+      "content": "Die Tarife unterscheiden sich in den Funktionen, dem dir zur Verfügung stehenden Support und der Anzahl von KI-Credits, die du monatlich ausführen kannst. Mehr hierzu findest du auf unserer Tarifübersicht.",
+      "question": "Wie unterscheiden sich die Tarife?"
+    },
+    {
+      "content": "Die Vertragslaufzeit des Professional und Enterprise Tarifs beträgt mindestens 12 Monate. Der Betrag wird auf jährlicher Basis per Rechnung abgerechnet. KI-Credits kannst du jederzeit auch via PayPal bezahlen und aufladen.",
+      "question": "Welche Zahlungsmethoden werden unterstützt?"
+    },
+    {
+      "content": "Die Kosten für den Enterprise Tarif orientieren sich an der Anzahl deiner Unique Users. Gerne erstellen wir dir ein <a class='text-blue-500 hover:underline cursor-pointer' target='_blank' href='https://calendly.com/sbrenner-cm/besprechung-30-min?month=2023-07'>individuelles Angebot</a>.",
+      "question": "Was kostet der Enterprise-Tarif?"
+    },
+    {
+      "content": "Du kannst deinen Tarif jederzeit innerhalb der Kündigungsfrist kündigen, indem du eine E-Mail mit deiner Kündigung an <a class='text-blue-500 hover:underline cursor-pointer' href='mailto:mwitzenleiter@conversionmaker.com'>mwitzenleiter@conversionmaker.com</a> sendest. Bei einer jährlichen Vertragslaufzeit ist die Kündigung spätestens bis 90 Tage vor Ablauf der Laufzeit zu erklären",
+      "question": "Wie kann ich kündigen?"
+    },
+    {
+      "content": "Die Texte werden für jede Anfrage unabhängig voneinander generiert. Mit einer Wahrscheinlichkeit von mehr als 99 % ist der von dir generierte Text einzigartig und du hast das volle Nutzungsrecht deiner generierten Texte.",
+      "question": "Sind Urheberrechtsverletzungen ausgeschlossen?"
+    },
+    {
+      "content": "Ja, bei der Nutzung von Conversionmaker.ai werden deine Daten nicht als Trainingsdaten bei OpenAI verwendet oder gespeichert (anders als bei der regulären Nutzung von ChatGPT).",
+      "question": "Ist die Nutzung Datenschutz-konform?"
+    }
+  ],
+  "footer": {
+    "address": {
+      "heading": "Anschrift & Kontakt"
+    },
+    "menu": {
+      "cookie": "Cookie Einstellungen",
+      "data": "Datenschutz",
+      "heading": "Inhalte",
+      "imprint": "Impressum",
+      "tc": "AGB"
+    },
+    "socialMedia": {
+      "facebook": "auf Facebook",
+      "heading": "Social Media",
+      "instagram": "auf Instagram",
+      "linkedIn": "auf LinkedIn"
+    },
+    "title": "Schreibe professionelle Produkt- und Marketingtexte, die wirklich verkaufen."
+  },
+  "form": {
+    "labels": {
+      "email": "E-Mail-Adresse",
+      "message": "Deine Nachrichten",
+      "name": "Name"
+    },
+    "submit": {
+      "label": "Nachricht senden"
+    },
+    "validations": {
+      "email": {
+        "email": "Bitte gib eine gültige E-Mail-Adresse an.",
+        "empty": "Bitte gib deine E-Mail-Adresse an."
+      },
+      "message": {
+        "empty": "Bitte gib eine Nachricht an.",
+        "min": "Deine Nachricht sollte mindestens 20 Zeichen lang sein."
+      },
+      "name": {
+        "empty": "Bitte gib deinen Namen an.",
+        "min": "Dein Name sollte mindestens zwei Zeichen lang sein."
+      }
+    }
+  },
+  "generic": {
+    "background": "Hintergrundgrafik",
+    "comingSoon": "coming soon",
+    "locale": "de_DE",
+    "readMore": "Mehr lesen",
+    "videoCode": "NVXzU8zSa4c"
+  },
+  "gpt3": {
+    "hero": {
+      "header": "<span class=\"lg:text-5xl md:text-4xl\">Conversionmaker.ai: Deine professionelle Alternative zu ChatGPT</span>"
+    }
+  },
+  "header": {
+    "menu": {
+      "api": "API Dokumentation",
+      "blog": "Blog",
+      "blogTeaser": "Künstliche Intelligenz im E-Commerce",
+      "contact": "Kontakt",
+      "events": "Events",
+      "faq": "FAQ",
+      "features": "Features",
+      "integrations": "Integrations",
+      "onboarding": "Onboarding",
+      "plans": "Tarife",
+      "product": "Produkt",
+      "resources": "Ressourcen"
+    },
+    "navigation": {
+      "cta": "Kostenlos testen",
+      "login": "Einloggen"
+    },
+    "languages": {
+      "german": "Deutsch",
+      "english": "Englisch",
+      "french": "Französisch"
+    }
+  },
+  "onboarding": {
+    "content": {
+      "heading": "Individualisierungen auf <br /> Kundenwunsch",
+      "subElements": [
+        {
+          "heading": "Individuelles Textdesign",
+          "bulletpoints": [
+            "Art des Textes (bspw. Produktbeschreibungstext, Kategorieseitentext)",
+            "Textstruktur (bspw. Absätze, Formatierungen)",
+            "Formulierungen (bspw. Berücksichtigung von Werbewirkungsformeln)",
+            "Sprachstil (bspw. Ansprache Du/Sie, formell/informell)",
+            "Vorgaben zu Textlängen"
+          ]
+        },
+        {
+          "heading": "Festlegung der Ausgabesprachen"
+        },
+        {
+          "heading": "Tool-Integration abhängig vom Erstellungsprozess",
+          "bulletpoints": [
+            "Stand-alone GUI",
+            "API Nutzung zur eigenen Integration (<a href='https://cmai.readme.io' class='text-blue-500 hover:text-blue-600 cursor-pointer' target='_blank'>API Dokumentation</a>)",
+            "Webshop-Plugin (bspw. Shopware, Shopify, Magento)",
+            "PIM, ERP, CMS-Plugins auf Kundenwunsch",
+            "Batch-Verarbeitung von definierten Input/Output Dateien"
+          ]
+        }
+      ]
+    },
+    "cta": {
+      "header": "Du möchtest unsere generierten Texte in deine Tools und Prozesse einbinden?",
+      "text": "Kontaktieren uns für weitere Infos und ein unverbindliches erstes Gespräch.",
+      "button": "Jetzt kostenlose Beratung vereinbaren",
+      "mobileButton": "Jetzt kostenlose Beratung <br /> vereinbaren"
+    },
+    "heading": {
+      "desktop": "Integration und Onboarding <br /> von Conversionmaker.ai",
+      "mobile": "Integration und Onboarding von Conversionmaker.ai"
+    },
+    "text": "Wir begleiten dich bei der erfolgreichen Integration von Conversionmaker.ai in deine Prozesse. Profitiere von unserem Experten Know-how in den Bereichen Machine Learning, Conversion Rate Optimierung, Datenanalyse und Customer Success Management. Automatisiere deine Texterstellung für höhere Conversions und mehr Wachstum.",
+    "title": "Onboarding | Conversionmaker.ai ",
+    "tileheading": "Onboarding Prozess von Conversionmaker.ai",
+    "tiles": [
+      {
+        "heading": "Prozess",
+        "bulletpoints": [
+          "Art des Textes (bspw. Produktbeschreibungstext, Kategorieseitentext)",
+          "Textstruktur (bspw. Absätze, Formatierungen)",
+          "Formulierungen (bspw. Berücksichtigung von Werbewirkungsformeln)",
+          "Sprachstil (bspw. Ansprache Du/Sie, formell/informell)",
+          "Vorgaben zu Textlängen"
+        ]
+      },
+      {
+        "heading": "Individuelles Textdesign",
+        "bulletpoints": [
+          "Kunde: Bereitstellung von Referenz- und Anlerntexten, Stilvorgaben und Individualisierungsparameter",
+          "Conversionmaker.ai: Design des individuellen KI Controllers, KI Training"
+        ]
+      },
+      {
+        "heading": "Workflow Anbindung",
+        "subHeading": "Conversionmaker.ai Team mit Kunde:",
+        "bulletpoints": [
+          "Mapping des Text-Erstellungsworkflows, Entscheidung zu bevorzugter Integration",
+          "Ggf. Definition von Datenformaten oder individuellen Anpassungen zum Datenaustausch",
+          "Bei API Anbindung: Umsetzung der Integration auf Kundenseite"
+        ]
+      },
+      {
+        "heading": "Analytics Anbindung für Reporting (Google Analytics)",
+        "subHeading": "Conversionmaker.ai Team mit Kunde:",
+        "bulletpoints": [
+          "Google Analytics Zugriff für die relevanten Daten freigeben",
+          "Festlegung der zu analysierenden Webseiten/Produttexte"
+        ]
+      }
+    ]
+  },
+  "pages": {
+    "contact": {
+      "address": {
+        "CTA": "Standort anzeigen",
+        "description": "Conversion Maker GmbH <br /> Beim Alten Ausbesserungswerk 4 <br /> 77654 Offenburg - Germany",
+        "heading": "Anschrift"
+      },
+      "headingDesktop": "Du hast noch eine Frage? <br/> Wir helfen dir gerne weiter!",
+      "headingMobile": "Du hast noch eine Frage? Wir helfen dir gerne weiter!"
+    },
+    "events": {
+      "claim": "Du möchtest direkt starten? Melde dich kostenlos an und überzeuge dich selbst. Mit unserem <span class='font-medium'>exklusiven Deal</span> kannst du Conversionmaker.ai jetzt {{days}} Tage kostenlos testen.",
+      "heading": "Ab jetzt kann <span class='inline text-blue-500'>jeder</span> professionelle Marketingtexte schreiben, die wirklich <span class='inline text-blue-500'>verkaufen</span>."
+    },
+    "faq": {
+      "meta": {
+        "description": "KI-gestütztes Tool zur einfachen und schnellen Erstellung von hochwertigen Marketingtexten. Steigere deine Umsätze!",
+        "og": {
+          "description": "KI-gestütztes Tool zur einfachen und schnellen Erstellung von hochwertigen Marketingtexten. Steigere deine Umsätze!",
+          "title": "Conversionmaker.ai - Automatisierte Texterstellung"
+        },
+        "title": "Häufig gestellte Fragen"
+      },
+      "title": "Hier findest du die passende <span class='text-blue-500'>Antwort</span> auf deine Fragen"
+    },
+    "home": {
+      "advantageBox": {
+        "advantages": {
+          "betterSeoVisibility": {
+            "description": "Generiere tausende einzigartige Texte, die deine relevanten Keywords enthalten, und optimiere so die Sichtbarkeit deiner generierten Texte.",
+            "title": "Besser SEO-Sichtbarkeit"
+          },
+          "higherConversionRate": {
+            "description": "Mit Conversionmaker.ai erstellst du ganz einfach herausragende Produktbeschreibungen, die deine Kunden überzeugen.",
+            "title": "Höhere Conversion Rate"
+          },
+          "lessCost": {
+            "description": "Erhöhe die Produktivität deiner Teams durch die Automatisierung deiner Contenterstellung und spare wichtige Ressourcen.",
+            "title": "Weniger Kosten"
+          },
+          "timeSaving": {
+            "description": "Einzigartige Texte auf Knopfdruck. Durch unsere Textautomatisierung erhältst du Tausende hochwertige Texte in Sekunden.",
+            "title": "90 % Zeitersparnis"
+          }
+        },
+        "description": "Mit Conversionmaker.ai erstellst du automatisiert hochwertige Inhalte in mehr als 15 Sprachen.",
+        "title": "Erziele maximalen Erfolg durch gute Texte"
+      },
+      "advantages": [
+        {
+          "alt": "Optimiere deine Conversion Rate",
+          "content": "Dank aktiver Ansprache aus Nutzerperspektive, emotionaler Wörter, einfacher Sätze uvm. werden deine Texte zu hochwertigen Marketingtexten.",
+          "title": "Optimiere deine Conversion Rate"
+        },
+        {
+          "alt": "Spare bis zu 90 % Zeit beim Texten",
+          "content": "Mit Hilfe der KI-Textgenerierung erhältst du in wenigen Sekunden vielfältige Textvorschläge und Inspiration. Texten war noch nie so einfach.",
+          "title": "Spare bis zu 90&nbsp;% Zeit beim Texten"
+        },
+        {
+          "alt": "Verbessere deine SEO Sichtbarkeit",
+          "content": "Wir sorgen dafür, dass deine Keywords natürlich mit dem Text verwoben werden und somit die Sichtbarkeit deiner Produkte gewährleistet ist.",
+          "title": "Verbessere deine SEO Sichtbarkeit"
+        }
+      ],
+      "alternateCta": {
+        "bullets": [
+          "Erstelle conversion-optimierte Marketingtexte in unter drei Minuten",
+          "Lass dich von zahlreichen Textvorschlägen inspirieren",
+          "Optimiere deine Texte kinderleicht mit unserem Analysetool"
+        ],
+        "button": "Jetzt {{days}} Tage kostenlos testen",
+        "heading": "Teste Conversionmaker.ai jetzt {{days}}&nbsp;Tage kostenlos!"
+      },
+      "appDemo": {
+        "videoHeader": "Wir zeigen dir, wie's funktioniert!"
+      },
+      "application": {
+        "heading": "Beispiel: Gasgrill",
+        "input": {
+          "button": "Textvorschläge generieren",
+          "heading": "<span class='ml-6 mr-2 inline-block'>✍️</span>Dein Input",
+          "types": {
+            "product": {
+              "keyword": {
+                "label": "SEO-Keywords (Optional)",
+                "value": "Gasgrill, Camping"
+              },
+              "text": {
+                "label": "Vorteile, Eigenschaften & Nutzungsszenarien",
+                "value": "Anti-Haft-Grillrost verhindert das Ankleben von Grillgut.\nStufenlos regelbare Brenner für perfekte Grillergebnisse.\nHerausnehmbare Fettauffangschale zur einfachen Reinigung.\nUnvergessliche Grillabende mit Freunden und Familie."
+              },
+              "title": {
+                "label": "Produktname",
+                "value": "BBQ-Pro Gasgrill M-1000"
+              }
+            }
+          }
+        },
+        "output": {
+          "carousel": [
+            {
+              "content": "<p>Die Grillsaison ist gekommen und Sie sind auf der Suche nach einem qualitativ hochwertigen und dennoch preiswerten <span class='text-blue-500'>Gasgrill</span>? Dann empfehlen wir Ihnen den <strong>M-1000 <span class='text-blue-500'>Gasgrill</span> von BBQ-PRO</strong>. Diese Grillserie ist besonders für den anspruchsvollen und exakten Grillgourmet geeignet. <br /><br /> Die Anti-Haft-Grillrostfläche verhindert auch beim <span class='text-blue-500'>Camping</span> das Verkleben von Grillgut und ist durch eine spezielle Beschichtung für eine besonders lange Lebensdauer ausgelegt. Die einstellbaren und handlich zu bedienenden Brenner sorgen für perfekte Grillergebnisse. Ein hoher Wirkungsgrad der Brenner garantiert dabei die kurze Warmlaufzeit und eine lange Brenndauer.</p>"
+            },
+            {
+              "content": "<p>Der <strong><span class='text-blue-500'>Camping-Gasgrill</span> M-1000 von BBQ-PRO</strong> ist ein kompakter Grill für den <span class='text-blue-500'>Camping</span>- und Gartenbereich. Er ist aus stabilem Aluguss gefertigt und verfügt über einen Guss-Grillrost, der das Ankleben von Grillgut verhindert. Durch die herausnehmbare Fettauffangschale ist die Reinigung besonders einfach.<br /><br /> Die beiliegende Anleitung zeigt Ihnen Schritt für Schritt, wie Sie den <span class='text-blue-500'>Gasgrill</span> optimal einstellen und nutzen.</p>"
+            },
+            {
+              "content": "<p>Du suchst einen kompakten, robusten und leichten <span class='text-blue-500'>Gasgrill</span>, den du auch beim <span class='text-blue-500'>Camping</span> nutzen kannst? Dann ist der <strong>BBQ-PRO Gasgrill M-1000</strong> die goldene Wahl für dich! Die Besonderheit dieses <span class='text-blue-500'>Gasgrill</span> ist die einfache Reinigung: Der porzellanemmelierte  Guss-Grillrost verhindert das Ankleben von Grillgut.<br /><br /> Durch das stufenlos regelbare Brennerventil kannst du die Temperatur für den Grillvorgang optimal einstellen. Die einfache Handhabung des M-1000 beschert dir unvergessliche Grillerlebnisse.</p>"
+            }
+          ],
+          "generating": {
+            "placeholder": "Klicke auf den<br />\"Textvorschläge generieren\"<br />Button.",
+            "title": "Textvorschläge werden generiert..."
+          },
+          "heading": "<span class='ml-6 mr-2 inline-block'>🤖</span>Deine KI-Textvorschläge <span class='font-light sm:inline block sm:ml-0 ml-6'>(frei kombinierbar!)</span>"
+        }
+      },
+      "arrangeDemoBanner": {
+        "bulletpoints": [
+          "persönliches Gespräch",
+          "Individuelle Beratung"
+        ],
+        "button": "Jetzt kostenlose Beratung vereinbaren",
+        "description": "Du bist Dir noch unsicher, was Du wirklich brauchst? Gerne unterstützen wir von Conversionmaker.ai dich, den passenden Tarif für dich zu finden.",
+        "title": "Unsicher, welcher Plan zu deinen Bedürfnissen passt?"
+      },
+      "contact": {
+        "cta": "Kontakt aufnehmen",
+        "form": {
+          "heading": "Kontaktformular",
+          "submission": "Vielen Dank für deine Nachricht. Wir werden uns so schnell wie möglich mit dir in Verbindung setzen.",
+          "text": "Wir antworten in der Regel innerhalb von einem Werktag."
+        },
+        "heading": "Du hast noch eine Frage?",
+        "text": "Nimm jederzeit Kontakt mit uns auf. Wir helfen dir gerne weiter!"
+      },
+      "cta": {
+        "bullets": [
+          "Erstelle conversion-optimierte Marketingtexte in unter drei Minuten",
+          "Kombiniere völlig frei aus zahlreichen Textvorschlägen",
+          "Optimiere deine Texte kinderleicht mit unserem Analysetool"
+        ],
+        "button": "{{days}} Tage kostenlos testen",
+        "claim": "Ideal für Shopbetreiber, Texter, Agenturen und viele mehr.",
+        "heading": "Hol dir die volle Text-Power!"
+      },
+      "demoVideo": {
+        "features": {
+          "automatedTextGeneration": {
+            "description": "Die maßgeschneiderte Integration unserer Lösung in deine Systeme sorgt für eine echte Automatisierung deiner Text-Prozesse. Somit kannst du deine Kosten senken und die Effizienz steigern. Dank unserer einzigartigen API-Anbindung hast du die Möglichkeit, Tausende von Marketingtexten innerhalb kürzester Zeit völlig automatisiert zu erstellen. <a href='https://cmai.readme.io/reference/createaiasktheai' target='_blank' class='text-blue-500 hover:underline'>Erfahre hier mehr.</a>",
+            "title": "Automatisierte Texterstellung"
+          },
+          "generateTexts": {
+            "description": "Die von uns trainierte KI erstellt mit nur wenigen Stichworten automatisch einzigartige und professionelle Marketingtexte, die verkaufen.<br /> <br /> Das Besondere dabei? Unsere KI analysiert deine bestehenden Texte und liefert dir dadurch individuelle Textvorschläge für unterschiedlichste Anwendungsfälle.",
+            "title": "Erstelle konvertierende Texte in Sekunden"
+          },
+          "optimizeTexts": {
+            "description": "Profitiere auch du von unserem langjährigen Know-how im Bereich CRO. Optimiere deine bestehenden Marketingtexte mithilfe unserer Profitipps, die auf Basis der Ergebnisse unzähliger A/B-Tests im Wording und Content Bereich entwickelt wurden.",
+            "title": "Optimiere deine Texte mit unseren Profitipps"
+          },
+          "shopIntegration": {
+            "description": "Durch die Anbindung von Shopify, Shopware oder Google Analytics hast du alle Kennzahlen im Blick. Erkenne so mühelos das größte Uplift-Potenzial deiner bestehenden Texte.<br /> <br /> Wenn du deine Website oder deinen Shops verknüpfst, passt sich unsere KI an deinen Schreibstil an und liefert dir noch bessere Textvorschläge.",
+            "title": "Vollständige Integration deines Shops"
+          }
+        },
+        "title": "Funktionen und Vorteile"
+      },
+      "faq": {
+        "heading": "Häufig gestellte Fragen",
+        "link": "Alle FAQs anzeigen",
+        "paragraph": "Wir konnten deine Frage nicht beantworten?"
+      },
+      "features": {
+        "heading": "Möglichkeiten der Integration",
+        "items": [
+          {
+            "alt": "Integrationen",
+            "content": {
+              "content": "Für die branchenführenden Systeme haben wir bereits eine bestehende Integration entwickelt, die direkt und einfach genutzt werden kann. Zusätzlich bauen wir unsere Integrationsmöglichkeiten stetig aus:",
+              "heading": "Bestehende Anbindungen an Shopsysteme, PIM und ERP"
+            }
+          },
+          {
+            "alt": "Integrationen",
+            "content": {
+              "content": "Alle Funktionen und kundenindividuelle Einstellungen können über eine API konfiguriert und angebunden werden. Dazu stehen auch moderne SDKs in verschiedenen Programmierumgebungen zur Verfügung. <span class='text-blue-500'>Die API-Dokumentation befindet sich <a class='underline cursor-pointer' target='_blank' href='https://cmai.readme.io/reference/createaiasktheai'>hier</a></span>",
+              "heading": "Individuelle Einbindung über API und moderne SDK"
+            }
+          },
+          {
+            "alt": "Integrationen",
+            "content": {
+              "content": "Eine einfache Lösung für eine Integration ohne größeren Aufwand ist der Austausch der Daten über definierte Input/Output Dateien. Dabei werden die individuellen, bereits vorhanden Kundendaten im Datenformat wie CSV oder XML für den Textinput berücksichtigt. Die Output-Datei mit den KI generierten Texten kann dann einfach weiterverarbeitet werden. Die Dateien werden als Download im Tool oder als Ablage auf SFTP Servern bereitgestellt.",
+              "heading": "Einfacher Austausch über Input/Output Files"
+            },
+            "icons": [
+              {
+                "alt": "Shopify Integration"
+              },
+              {
+                "alt": "Shopware Integration "
+              },
+              {
+                "alt": "Google Analytics Integration"
+              }
+            ]
+          }
+        ]
+      },
+      "header": {
+        "cta": {
+          "arrangeDemo": "Demo anfragen",
+          "testphase": "{{days}} Tage kostenlos testen"
+        },
+        "headline": "Power up your E-Commerce - Automatisierte Texterstellung mit <span class='text-blue-500'>Conversionmaker.ai</span>",
+        "text": "Erstelle mit der führenden Plattform für Textoptimierung und -generierung <br/> in nur wenigen Sekunden perfekte Texte, die deine Zielgruppe überzeugen.",
+        "typed": {
+          "blogposts": "Blog Beiträge",
+          "category": "Kategorietexte",
+          "emails": "E-Mails",
+          "marketing": "Marketingtexte",
+          "marketplace": "Marktplatztexte",
+          "newsletter": "Newsletter",
+          "products": "Produkttexte",
+          "socialmedia": "Social Media Beiträge"
+        }
+      },
+      "hero": {
+        "button": "{{days}} Tage kostenlos testen",
+        "claim": "Mehr Sales. Weniger Arbeit.",
+        "heading": "Ab jetzt kann <span class='inline text-blue-500'>jeder</span> professionelle Produkt- und Marketingtexte schreiben, die wirklich <span class='inline text-blue-500'>verkaufen</span>.",
+        "placeholder": "E-Mail-Adresse",
+        "subheading": "Erstelle mit der führenden Plattform für Textoptimierung und -generierung in nur wenigen Sekunden perfekte Texte, die deine Zielgruppe überzeugen."
+      },
+      "meta": {
+        "description": "KI-gestütztes Tool zur einfachen und schnellen Erstellung von hochwertigen Marketingtexten. Steigere deine Umsätze!",
+        "og": {
+          "description": "KI-gestütztes Tool zur einfachen und schnellen Erstellung von hochwertigen Marketingtexten. Steigere deine Umsätze!",
+          "title": "Conversionmaker.ai - Automatisierte Texterstellung"
+        },
+        "title": "Software für automatisierte Texterstellung"
+      },
+      "moduleList": {
+        "comingSoon": "coming soon",
+        "foldTable": {
+          "showLess": "Weniger Features anzeigen",
+          "showMore": "Alle Features anzeigen"
+        },
+        "heading": {
+          "desktop": "Unsere Module bieten dir alle Funktionen, <br /> die du benötigst",
+          "mobile": "Unsere Module <br /> bieten dir alle <br /> Funktionen, die du <br /> benötigst"
+        },
+        "modules": [
+          {
+            "description": "Erstelle aussagekräftige Produktbeschreibungen für deinen Online-Shop, die deine Kunden überzeugen und Verkäufe steigern.",
+            "title": "Produktbeschreibungen"
+          },
+          {
+            "description": "Erstelle einen professionellen Kategorietext, der deine Kunden informiert und ein gutes Ranking in Suchmaschinen erreicht.",
+            "title": "Kategorietexte"
+          },
+          {
+            "description": "Erstelle aussagekräftige Produkttexte für deine Marktplätze wie Amazon, OTTO, eBay oder Zalando und steigere deine Verkäufe.",
+            "title": "Marktplatztexte"
+          },
+          {
+            "description": "Schluss mit ungelesenen E-Mails. Schreibe in kürzester Zeit E-Mails und Newsletter mit überzeugenden Betreffzeilen und Vorschautext, die die Leser zum Öffnen und Interagieren bewegen.",
+            "title": "E-Mails & Newsletter"
+          },
+          {
+            "description": "Spare Zeit und lasse unsere KI deinen Blog Beiträge erstellen - inklusive überzeugender Headline",
+            "title": "Blog Beiträge"
+          },
+          {
+            "description": "Erstelle ansprechende Beiträge für LinkedIn, Instagram, Facebook & Co, die deine Follower zum Interagieren bewegen und deine Reichweite erhöhen. ",
+            "title": "Social Media Texte"
+          },
+          {
+            "description": "Fasse deine Texte schnell und einfach in Stichworten zusammen oder schreibe den Text um, ohne den Inhalt zu verändern.",
+            "title": "Texte zusammenfassen oder umschreiben "
+          },
+          {
+            "description": "Mit unserem Modul “Frag die KI” kannst du jede Art von Text erstellen. Von Stellenausschreibungen bis hin zu Songtexten.",
+            "title": "Marketingtexte jeglicher Art"
+          },
+          {
+            "description": "Kreiere überzeugende CTAs, die mehr Besucher zum Konvertieren bewegen.",
+            "title": "Call-to-Actions"
+          }
+        ]
+      },
+      "newsletter": {
+        "banner": {
+          "bulletpoints": [
+            "Erfahre zuerst von unseren neuen Features & Modulen",
+            "Verpasse keine unserer exklusiven Aktionen",
+            "Profitiere von unseren Profi-Tipps für perfekte Texte"
+          ],
+          "header": "Bleibe immer auf dem neusten Stand"
+        },
+        "button": "Abonnieren",
+        "content": "Erfahre zuerst von unseren neuen Features & Modulen. Verpasse keine unserer exklusiven Aktionen. Profitiere von unseren Profi-Tipps für perfekte Texte",
+        "disclaimer": "Datenschutz ist uns wichtig. Weitere Informationen findest du in unserer <a href='/datenschutz' target='_blank'>Datenschutzerklärung</a>.",
+        "heading": "Melde dich für unseren Newsletter an<br/>und bleibe immer up-to-date!",
+        "placeholder": "E-Mail-Adresse"
+      },
+      "partnership": {
+        "button": "Jetzt Partner werden",
+        "contact": "Formular für Partnerschaft",
+        "heading": "Perfekte Texte für deine Kunden",
+        "text": "Das Conversionmaker.ai Partnerprogramm ist die einfachste Möglichkeit für Agenturen und Technologieanbieter, den Prozess der Content-Erstellung ihrer Kunden zu vereinfachen und zu optimieren. Unsere KI-basierte Plattform für Textgenerierung und -optimierung liefert die besten Texte.",
+        "title": "Partnerprogramm | Conversionmaker.ai"
+      },
+      "sliderHeader": "Bekannt aus führenden Medien",
+      "statistics": {
+        "activeUsers": "aktive Nutzer von <br /> Conversionmaker.ai",
+        "conversionRate": "mehr Conversions durch <br /> herausragende Texte",
+        "moreTraffic": "mehr Traffic durch SEO- <br /> optimierten Content"
+      },
+      "textTypes": {
+        "boxes": [
+          {
+            "content": "Erstelle aussagekräftige Produktbeschreibungen für deinen Online-Shop und Marktplätze, die deine Verkäufe steigern.",
+            "title": "Produktbeschreibungen"
+          },
+          {
+            "content": "Spare Zeit und lasse unsere KI deine Blog Beiträge erstellen - inklusive überzeugender Headline.",
+            "title": "Blog Beiträge"
+          },
+          {
+            "content": "Schluss mit ungelesenen E-Mails. Schreibe in kürzester Zeit E-Mails und Newsletter mit überzeugenden Betreffzeilen und Vorschautext, die die Leser zum Öffnen bewegen.",
+            "title": "E-Mails & Newsletter"
+          },
+          {
+            "content": "Erstelle ansprechende Beiträge für LinkedIn, Instagram, Facebook & Co, die deine Follower zum Interagieren bewegen.",
+            "title": "Social Media Beiträge"
+          },
+          {
+            "content": "Erstelle aussagekräftige Produktbeschreibungen für deine Marktplätze wie Amazon, OTTO, eBay oder Zalando und steigere deine Verkäufe.",
+            "title": "Marktplatztexte"
+          },
+          {
+            "content": "Finde die passende Formulierung und schreibe deine Texte ganz schnell und einfach um, ohne den Inhalt zu verändern.",
+            "title": "Texte umschreiben"
+          },
+          {
+            "content": "Fasse deine Texte schnell und einfach in Stichworten zusammen, ohne Inhalt zu verlieren. ",
+            "title": "Texte zusammenfassen"
+          },
+          {
+            "content": "Kreiere überzeugende CTAs, die mehr Besucher zum Klicken bewegen.",
+            "title": "Call to Actions"
+          }
+        ],
+        "heading": "Wie kann dich Conversionmaker.ai unterstützen?",
+        "text": "Wähle aus verschiedenen Texttypen das passende Feature für deinen Anwendungsfall."
+      }
+    },
+    "imprint": {
+      "brand": "Conversionmaker.ai ist eine eingetragene Marke der Conversion Maker GmbH.<br />Alle Inhalte dieser Webseite sind urheberrechtlich geschützt.",
+      "commercialRegister": "Handelsregister",
+      "fax": "Fax",
+      "heading": "Impressum",
+      "managingDirector": "Geschäftsführer",
+      "meta": {
+        "title": "Impressum"
+      },
+      "phone": "Telefon",
+      "responsible": "Verantwortlich: Michael Witzenleiter<br />(verantwortlicher Dienstanbieter, auch im Sinne von § 5 TMG bzw. § 55 Abs. 2 RStV)",
+      "taxNumber": "Steuernummer"
+    },
+    "logout": {
+      "banner": {
+        "description": "Lasse uns deine Bewertung auf OMR Reviews da und erhalte exklusiv einen Amazon-Gutschein im Wert von 20 €. Klicke auf den blauen Button und schon geht's los.",
+        "title": "Du bist mit Conversionmaker.ai zufrieden?"
+      },
+      "heading": "Vielen Dank, dass du Conversionmaker.ai nutzt",
+      "meta": {
+        "title": "Bis bald"
+      }
+    },
+    "notFound": {
+      "content": "Die von dir aufgerufene Seite wurde leider nicht gefunden",
+      "heading": "Das hat leider nicht geklappt...",
+      "meta": {
+        "description": "KI-gestütztes Tool zur einfachen und schnellen Erstellung von hochwertigen Marketingtexten. Steigere deine Umsätze!",
+        "title": "Das hat nicht geklappt"
+      }
+    },
+    "plan": {
+      "bullets": [
+        "{{days}} Tage kostenlos testen",
+        "{{aiCredits}} Wörter inklusive",
+        "Anbindung an deinen Onlineshop",
+        "Mehrsprachigkeit",
+        "API"
+      ],
+      "cards": {
+        "enterprise": {
+          "claim": "Die perfekte Lösung für <strong>große Unternehmen und Agenturen</strong>, die viel Content in kurzer Zeit erstellen.",
+          "cta": "Demo anfordern",
+          "features": [
+            "<span class='text-blue-500'>Alle Features aus Professional</span>",
+            "Eigene Conversion Rate optimierte KI",
+            "Persönlicher Ansprechpartner",
+            "Vorabzugriff auf Features",
+            "Qualitäts- und Faktencheck",
+            "Unbegrenzte Textgenerierung"
+          ],
+          "name": "Enterprise"
+        },
+        "footer": {
+          "1": "Unsicher, welcher Tarif am besten zu dir passt?",
+          "2": "Alle Features im Überblick"
+        },
+        "inquiry": "Preis auf Anfrage",
+        "professional": {
+          "claim": "Hervorragend für <strong>Start-Ups</strong>, <strong>Scale-Ups</strong>, <strong>kleinere Unternehmen</strong> und <strong>kleinere Agenturen</strong> geeignet.",
+          "cta": {
+            "desktop": "Demo anfordern",
+            "mobile": "Demo <br /> anfordern"
+          },
+          "features": [
+            "<span class='text-blue-500'>KI-Textgenerierung und Optimierung</span>",
+            "Mehrsprachigkeit",
+            "Schnittstellenzugriff auf alle vorhandenen APIs",
+            "SEO-Optimierung der KI-Texte",
+            "Kennzahlenanalyse",
+            "250.000 generierte Wörter"
+          ],
+          "name": "Professional"
+        },
+        "starter": {
+          "claim": "Perfekt für <strong>Freelancer</strong> und zum Ausprobieren unserer Textgenerierung.",
+          "cta": "Demo anfordern",
+          "features": [
+            "KI-Textgenerierung",
+            "Mehrsprachigkeit",
+            "Schnittstellen",
+            "SEO-Optimierung der KI-Texte",
+            "25.000 generierte Wörter"
+          ],
+          "name": "Starter"
+        },
+        "text": "Conversionmaker.ai unterstützt dich bei der Textoptimierung &ndash; unabhängig von deiner Unternehmensgröße und Branche. Starte jetzt mit einer kostenlosen Testphase und wähle anschließend das für dich passende Paket.",
+        "title": "Der passende Tarif für deinen Erfolg"
+      },
+      "cta": {
+        "bullet": [
+          "Erstelle conversion-optimierte Marketingtexte in unter drei Minuten",
+          "Lass dich von zahlreichen Textvorschlägen inspirieren",
+          "Verknüpfe deinen Analytics-System im Handumdrehen"
+        ],
+        "button": "Jetzt {{days}} Tage kostenlos testen",
+        "title": "Teste Conversionmaker.ai jetzt {{days}}&nbsp;Tage kostenlos!"
+      },
+      "hero": {
+        "cta": "Jetzt kostenlos starten",
+        "description": "Perfekt zum Ausprobieren unserer einzigartigen CRO-Textoptimierung und zum Generieren von ersten Marketingtexten.",
+        "placeholder": "E-Mail-Adresse",
+        "title": "Kostenlose Testphase"
+      },
+      "meta": {
+        "description": "KI-gestütztes Tool zur einfachen und schnellen Erstellung von hochwertigen Marketingtexten. Steigere deine Umsätze!",
+        "og": {
+          "description": "KI-gestütztes Tool zur einfachen und schnellen Erstellung von hochwertigen Marketingtexten. Steigere deine Umsätze!",
+          "title": "Conversionmaker.ai - Automatisierte Texterstellung"
+        },
+        "title": "Tarife und Features"
+      }
+    },
+    "registration": {
+      "aside": {
+        "claims": [
+          "Spare bis zu 90&nbsp;% Zeit beim Texten",
+          "Optimiere deine Conversion Rate durch einzigartige Marketingtexte",
+          "Teste Conversionmaker.ai kostenlos und ohne Zahlungsangaben"
+        ],
+        "heading": "Teste Conversionmaker.ai jetzt {{days}}&nbsp;Tage kostenlos!"
+      },
+      "confirmation": {
+        "confirmed": {
+          "content": "Vielen Dank für deine Anmeldung zu unserem Newsletter. Ab sofort erhältst du von uns Tipps und Neuigkeiten zu unserem Produkt und den Bereichen Marketing, Conversion Rate Optimierung und KI-Texterstellung.<br /><br />Du kannst dieses Fenster jetzt schließen.",
+          "heading": "Anmeldung erfolgreich"
+        },
+        "description": "KI-gestütztes Tool zur einfachen und schnellen Erstellung von hochwertigen Marketingtexten. Steigere deine Umsätze!",
+        "errors": {
+          "alreadyConfirmed": {
+            "button": "Zur Software",
+            "content": "Du hast deine Anmeldung bereits bestätigt und kannst Conversionmaker.ai vollumfänglich nutzen.",
+            "heading": "Anmeldung bereits bestätigt"
+          },
+          "doi": {
+            "content": "Leider kannst du dich nicht zu diesem Newsletter anmelden, da du dich zuvor von diesem abgemeldet hast.<br />Um diesen Newsletter erneut zu abonnieren, schreibe bitte eine E-Mail an&nbsp;",
+            "heading": "Anmeldung nicht möglich",
+            "subject": "Ich möchte mich erneut zum Blog Abo anmelden."
+          },
+          "generic": {
+            "button": "Zur Software",
+            "content": "Dieser Link ist leider ungültig. Hast du deine Anmeldung vielleicht bereits bestätigt?",
+            "heading": "Hoppla, da lief etwas schief!"
+          }
+        },
+        "meta": {
+          "description": "KI-gestütztes Tool zur einfachen und schnellen Erstellung von hochwertigen Marketingtexten. Steigere deine Umsätze!",
+          "og": {
+            "description": "KI-gestütztes Tool zur einfachen und schnellen Erstellung von hochwertigen Marketingtexten. Steigere deine Umsätze!",
+            "title": "Es ist ein Fehler aufgetreten"
+          },
+          "title": "Es ist ein Fehler aufgetreten"
+        },
+        "title": "Es ist ein Fehler aufgetreten"
+      },
+      "finished": {
+        "button": {
+          "calendly": "Jetzt Termin vereinbaren",
+          "confirm": "Anmeldung abschließen"
+        },
+        "calendly": "Außerdem möchten wir erfahren, wie wir unsere Software noch besser an deine täglichen Bedürfnisse anpassen können, um dich so noch besser zu unterstützen. Falls du direkt starten möchtest, kannst du Conversionmaker.ai auch ohne ein persönliches Onboarding nutzen.",
+        "description": "Vielen Dank, du hast uns alle notwendigen Angaben mitgeteilt und Conversionmaker.ai ist nun einsatzbereit.<br />Bevor du mit deiner kostenlosen Testversion startest, hast du die Möglichkeit, dich für ein persönliches Onboarding anzumelden, in dem wir dir die wichtigsten Funktionen und einige Best Practices vorstellen. 👋",
+        "doi": {
+          "description": "Du hast alle notwendigen Angaben gemacht und wir haben auch schon alles für dich vorbereitet. Nachdem du deine Anmeldung bestätigt hast (die E-Mail hast du bereits nach dem ersten Schritt erhalten), kannst du deine Produkttexte optimieren und Texte für deine neuen Produkte generieren",
+          "heading": "Fast geschafft!"
+        },
+        "heading": "Ready for Takeoff!",
+        "meta": {
+          "description": "KI-gestütztes Tool zur einfachen und schnellen Erstellung von hochwertigen Marketingtexten. Steigere deine Umsätze!",
+          "og": {
+            "description": "KI-gestütztes Tool zur einfachen und schnellen Erstellung von hochwertigen Marketingtexten. Steigere deine Umsätze!",
+            "title": "Ready for Takeoff"
+          },
+          "title": "Ready for Takeoff"
+        }
+      },
+      "form": {
+        "button": "Jetzt registrieren",
+        "disclaimer": "Datenschutz ist uns wichtig. Weitere Informationen findest du in unserer <a href='https://conversionmaker.ai/datenschutz/' target='_blank' rel='noreferrer' class='text-blue-500 cursor-pointer hover:text-blue-600'>Datenschutzerklärung</a>.",
+        "email": {
+          "label": "E-Mail-Adresse",
+          "validation": {
+            "email": "Bitte gib eine gültige E-Mail-Adresse an.",
+            "empty": "Bitte gib deine E-Mail-Adresse an.",
+            "exists": "Zu dieser E-Mail-Adresse existiert bereits ein Nutzer."
+          }
+        },
+        "heading": "Erstelle dir jetzt deinen persönlichen Zugang zu Conversionmaker.ai.",
+        "name": {
+          "label": "Name",
+          "validation": {
+            "empty": "Bitte gib deinen Namen an.",
+            "min": "Dein Name sollte mindestens zwei Zeichen lang sein."
+          }
+        },
+        "newsletter": "Ich stimme zu, dass Conversion Maker mich zu Informations- und Marketingzwecken kontaktieren darf.",
+        "password": {
+          "label": "Passwort",
+          "validation": {
+            "empty": "Bitte gib ein Passwort an.",
+            "min": "Dein Passwort muss mindestens sechs Zeichen lang sein und muss mindestens einen kleinen Buchstaben, einen großen Buchstaben und eine Zahl beinhalten.",
+            "pattern": "Dein Passwort muss mindestens einen kleinen Buchstaben, einen großen Buchstaben und eine Zahl beinhalten.",
+            "weak": "Bitte wähle ein stärkeres Passwort."
+          }
+        },
+        "tc": "Ich habe die <a href='https://conversionmaker.ai/agb/' target='_blank' rel='noreferrer' class='text-blue-500 hover:text-blue-600 cursor-pointer'>Allgemeinen Geschäftsbedingungen</a> gelesen und akzeptiere diese."
+      },
+      "meta": {
+        "description": "KI-gestütztes Tool zur einfachen und schnellen Erstellung von hochwertigen Marketingtexten. Steigere deine Umsätze!",
+        "og": {
+          "description": "KI-gestütztes Tool zur einfachen und schnellen Erstellung von hochwertigen Marketingtexten. Steigere deine Umsätze!",
+          "title": "Nutzerdaten"
+        },
+        "title": "Nutzerdaten"
+      },
+      "promotion": {
+        "content": {
+          "discount": "Du erhältst {{discount}} % Nachlass auf deinen Tarif.",
+          "period": "Du testest Conversionmaker.ai {{days}} Tage kostenlos."
+        },
+        "title": "Dein Deal:"
+      },
+      "resend": {
+        "button": {
+          "active": "E-Mail erneut versenden",
+          "disabled": "E-Mail versandt"
+        },
+        "content": "Du hast keine E-Mail erhalten? Wirf einen Blick in denen Spam-Ordern. Vielleicht hat sich unsere E-Mail ja dort versteckt."
+      },
+      "sidebar": {
+        "action": "Loslegen!",
+        "steps": [
+          {
+            "description": "Erstelle deinen persönlichen Zugang",
+            "title": "Nutzerdaten"
+          },
+          {
+            "description": "Bestätige deine Anmeldung",
+            "title": "Anmeldung bestätigen"
+          }
+        ]
+      },
+      "submission": {
+        "meta": {
+          "description": "KI-gestütztes Tool zur einfachen und schnellen Erstellung von hochwertigen Marketingtexten. Steigere deine Umsätze!",
+          "og": {
+            "description": "KI-gestütztes Tool zur einfachen und schnellen Erstellung von hochwertigen Marketingtexten. Steigere deine Umsätze!",
+            "title": "Vielen Dank für deine Anmeldung"
+          },
+          "title": "Vielen Dank für deine Anmeldung"
+        },
+        "paragraph": "Um deine Anmeldung erfolgreich abzuschließen, klicke bitte auf den <b>Bestätigungslink</b>, den du gerade per <b>E-Mail</b> erhalten hast.",
+        "title": "Vielen Dank für deine Anmeldung"
+      }
+    }
+  },
+  "plans": [
+    {
+      "items": [
+        {
+          "label": "Produktbeschreibungen"
+        },
+        {
+          "label": "Kategorietexte"
+        },
+        {
+          "label": "Marketing E-Mails"
+        },
+        {
+          "label": "Social Media Posts"
+        },
+        {
+          "label": "Blog Posts"
+        },
+        {
+          "label": "Marktplatztexte"
+        },
+        {
+          "enterprise": "Individuell",
+          "label": "Sprachmodell",
+          "professional": "Advanced",
+          "starter": "Basic"
+        }
+      ],
+      "label": "Textgenerierung"
+    },
+    {
+      "items": [
+        {
+          "label": "Copy Score"
+        },
+        {
+          "label": "Textoptimierung"
+        },
+        {
+          "label": "Exklusive Inhalte"
+        },
+        {
+          "label": "Dashboard"
+        }
+      ],
+      "label": "Conversion Rate Optimierung"
+    },
+    {
+      "items": [
+        {
+          "enterprise": "wie Professional",
+          "label": "Mehrsprachige Textgenerierung",
+          "professional": "+ Deutsch <br />+ Englisch <br />+ Französisch <br />+ Italienisch",
+          "starter": "Deutsch (AT, CH, DE)<br />Englisch (GB, US)"
+        },
+        {
+          "label": "Wörterbücher"
+        },
+        {
+          "label": "Suchmaschinenoptimierung"
+        },
+        {
+          "label": "Mandantenfähigkeit"
+        },
+        {
+          "label": "Produktverwaltung"
+        },
+        {
+          "label": "Kennzahlenanalyse"
+        },
+        {
+          "label": "Exklusive Vorab-Features"
+        }
+      ],
+      "label": "Features"
+    },
+    {
+      "items": [
+        {
+          "label": "REST API"
+        },
+        {
+          "label": "Shopware"
+        },
+        {
+          "label": "Shopify"
+        },
+        {
+          "label": "Google Analytics"
+        },
+        {
+          "label": "XML und CSV Import / Export"
+        }
+      ],
+      "label": "Schnittstellen"
+    },
+    {
+      "items": [
+        {
+          "enterprise": "unbegrenzt",
+          "label": "Benutzer pro Projekt",
+          "professional": "10",
+          "starter": "3"
+        },
+        {
+          "enterprise": "unbegrenzt",
+          "label": "Generierte Wörter pro Monat<sup class='text-xs text-slate-400'> 1)</sup>",
+          "professional": "250.000",
+          "starter": "25.000"
+        }
+      ],
+      "label": "Inklusiv Volumen"
+    },
+    {
+      "items": [
+        {
+          "label": "In-Software Support"
+        },
+        {
+          "label": "Helpdesk"
+        },
+        {
+          "label": "E-Mail Support"
+        },
+        {
+          "label": "Telefon Support"
+        },
+        {
+          "enterprise": "Persönlicher Ansprechpartner",
+          "label": "Ansprechpartner",
+          "professional": "Customer Success Manager"
+        }
+      ],
+      "label": "Support"
+    },
+    {
+      "items": [
+        {
+          "label": "Visa"
+        },
+        {
+          "label": "Mastercard"
+        },
+        {
+          "label": "American Express"
+        },
+        {
+          "label": "PayPal<sup class='text-xs text-slate-400'> 2)</sup>"
+        },
+        {
+          "label": "Rechnung"
+        }
+      ],
+      "label": "Zahlungsmethoden"
+    }
+  ],
+  "plans.disclaimer.0": "<sup>1)</sup> KI-Wörter können jederzeit kostenpflichtig nachgekauft werden.",
+  "plans.disclaimer.1": "<sup>2)</sup> Die Zahlung mit PayPal ist nur für das Nachkaufen von KI-Wörter möglich.",
+  "promotion": {
+    "button": "Jetzt teilnehmen",
+    "headline": "Birthday Special: Gewinne eine <span class='text-blue-500'>kostenlose Jahreslizenz</span> im Wert von 6.000 €.",
+    "image": "/images/happy-birthday-de.gif",
+    "timer": {
+      "button": "Jetzt teilnehmen",
+      "claim": "Gewinne eine <span class='text-blue-500'>kostenlose&nbsp;Jahreslizenz</span> im Wert von 6.000&nbsp;€",
+      "days": "Tage",
+      "header": "Black week",
+      "hours": "Stunden",
+      "minutes": "Minuten",
+      "promotion": "Gewinnspiel endet in",
+      "seconds": "Sekunden",
+      "subClaim": "Erstelle Dir einen kostenlosen Conversionmaker.ai Account und Du nimmst automatisch am Gewinnspiel teil."
+    }
+  },
+  "reviews": {
+    "content": "Conversionmaker.ai hilft zahlreichen Unternehmen, schneller hochwertige Inhalte zu erstellen. Nutze auch du unsere KI-basierte Software und schreibe in sekundenschnelle Texte, die verkaufen.",
+    "heading": "Über <span class='text-blue-500'>1.000</span> aktive Nutzer vertrauen bereits auf uns",
+    "reviews": [
+      {
+        "author": "Axel Dietrich",
+        "cite": "Wir benötigen regelmäßig textuellen Online-Content, insbesondere Produkttexte. Dank Conversionmaker.ai können wir diese nun automatisiert erstellen lassen und damit Zeit und Geld sparen. Praktischerweise sind die Texte auch gleich SEO- und Conversion-optimiert, d.h. die übliche Nachveredelung entfällt. Und apropos Zeitersparnis: Unsere Social Media und Blog Beiträge lassen wir ebenfalls von der KI schreiben - ein echter Gewinn für uns!",
+        "heading": "Conversion-optimierte Texte auf Knopfdruck",
+        "position": "Head of FNX LAB bei Fressnapf Tiernahrungs GmbH"
+      },
+      {
+        "author": "Fabian",
+        "cite": "Die Generierung von Texten und Content allgemein stellt eine immer größere Herausforderung dar. Da hilft Conversion Maker durch die Generierung oder Optimierung von Produkt- und weiteren Texten. Dazu braucht die KI nur wenige Stichworte. Das Tool gibt hier nach der Generierung meist 3 unterschiedliche Vorschläge, die dann noch weiter optimiert werden können.",
+        "heading": "KI generierte Texte unterschiedlichster Art",
+        "position": "Digital Sports Leader bei Decathlon Deutschland"
+      },
+      {
+        "author": "Stephan",
+        "cite": "Das Tool bringt viele verschiedene Features mit. Ursprünglich hatten wir einen kleineren Anwendungsbereich anvisiert – aber mit dem funktionsfähigen Tool in der Hand war natürlich die Verlockung groß, die anderen Punkten zu testen. Umso besser, dass die KI auch hier überzeugen konnte.",
+        "heading": "Praktische Software-Suite mit maßgeschneidertem Support",
+        "position": "Content Manager bei Bobshop"
+      },
+      {
+        "author": "Oliver",
+        "cite": "Die Content-Agentur hat einen guten Onboarding Prozess, in dem die Zielsetzung und relevante Keywords definiert werden. In der Full-Service Variante erzeugen Redakteure durch den Einsatz einer KI professionelle Texte und ergänzen diese mit Infografiken und Fotos. Top Service zu einem fairen Preis",
+        "heading": "Top Content Agentur mit smarter KI",
+        "position": "CEO bei HR Puls GmbH"
+      }
+    ],
+    "title": "Das sagen unsere Kunden"
+  },
+  "slides": [
+    {
+      "alt": "uhr",
+      "description": "Die Damen Armbanduhr in Silber ist ein zeitloses Accessoire. Ihr edles Erscheinungsbild und das stilvolle Design passen zu jedem Outfit - von casual bis ultrachic. Der subtlie Glanz des Mesh-Straps verleiht der Uhr einen Hauch von Luxus und macht sie angenehm zu tragen.",
+      "keywords": [
+        "Armbanduhr",
+        "edel",
+        "Silber",
+        "stilvoll"
+      ],
+      "title": "Damen Armbanduhr Silber"
+    },
+    {
+      "alt": "uhr",
+      "description": "Das Maxi Outdoor-Zelt ist ein geräumiges und praktisches Zelt für Campingausflüge. Zwei Türen sorgen für tolle Belüftung und einen einfachen Ein- und Ausstieg. Stundenlanger Camping-Spaß ist garantiert, denn das wasserdichte Zelt ist in Sekunden aufgebaut.",
+      "keywords": [
+        "Wurfzelt",
+        "geräumig",
+        "wasserdicht"
+      ],
+      "title": "Maxi Outdoor-Zelt"
+    }
+  ],
+  "table": {
+    "closeTable": "Weniger Inhalte anzeigen",
+    "languages": {
+      "availableLanguages": {
+        "dialog": {
+          "languages": [
+            "Dänisch",
+            "Deutsch (+ Österreich & Schweiz)",
+            "Englisch (GB + US)", "Estnisch",
+            "Französisch",
+            "Italienisch",
+            "Japanisch",
+            "Niederländisch",
+            "Polnisch",
+            "Portugiesisch (+BR)",
+            "Rumänisch",
+            "Schwedisch",
+            "Slowakisch",
+            "Slowenisch",
+            "Spanisch"
+          ],
+          "text": "Folgende Sprachen werden unterstützt:",
+          "title": "Verfügbare Sprachen"
+        },
+        "languageList": "+ Deutsch <br />+ Englisch <br />+ Französisch <br />+ Italienisch <br />+ Niederländisch <br />+ Spanisch <br />+ Dänisch <br />+ Japanisch <br />+ Portugiesisch <br />+ Rumänisch <br />+ Polnisch <br />+ Schwedisch <br />+ Slowakisch <br />+ Slowenisch"
+      },
+      "moreLanguages": {
+        "desktop": {
+          "showMore": "+ <span class='underline'>10 weitere Sprachen</span>",
+          "showLess": "- <span class='underline'>Weniger anzeigen</span>"
+        },
+        "mobile": "+ <span class='underline'>14 weitere Sprachen</span>"
+      }
+    },
+    "openTable": "Alle Inhalte anzeigen"
+  }
+}
