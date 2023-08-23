@@ -12,8 +12,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: checkout dev
+      - name: checkout repository
         uses: actions/checkout@v2
+
+      - name: fetch all history
+        run: git fetch --prune --unshallow
 
       - name: check if language-files have been changed in dev
         id: check-changes
