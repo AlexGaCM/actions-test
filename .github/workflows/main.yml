@@ -43,6 +43,7 @@ jobs:
       - name: merge changes into main
         if: env.changes != ''
         run: |
+          set -x
           git checkout main
           for file in ${{ env.changes }}; do
             git cherry-pick ${{ github.sha }} -- "$file"
