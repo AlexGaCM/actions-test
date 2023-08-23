@@ -16,7 +16,6 @@ jobs:
         run: |
          echo "username=${{ github.event.pull_request.user.login }}" >> $GITHUB_ENV
 
-    
       - name: check if branch is automatically created
         id: check-branch
         run: |
