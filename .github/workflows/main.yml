@@ -1,0 +1,17 @@
+name: echo on pr open
+
+on:
+  pull_request:
+    types:
+      - opened
+
+jobs:
+  echo_message:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Echo Message
+        run: echo "A pull request was opened!"
