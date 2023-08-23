@@ -19,8 +19,8 @@ jobs:
       - name: check if branch is automatically created
         id: check-branch
         run: |
-          echo "${{ env.username }}-patch-"
-          echo "${{ github.head_ref }}"
+          echo "checking for this branch:"
+          echo "${{ env.username }}-patch-*"
         
           if [[ ${{ github.head_ref }} == "${{ env.username }}-patch-"* ]]; then
             echo "branch is automatically created"
