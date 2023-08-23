@@ -26,7 +26,7 @@
       "content": "bitte bestätige deine Anmeldung bei Conversionmaker.ai mit einem Klick auf den folgenden Link. Anschließend kannst du direkt mit deinen ersten Projekten starten.<br><br><a href=\"{{confirmationLink}}\">{{confirmationLink}}</a><br><br>Bei Fragen kannst du uns gerne jederzeit eine E-Mail schreiben.<br><br>Viel Spaß beim Schreiben,<br>{{senderName}}",
       "content.marketing": "bitte bestätige deine Anmeldung bei Conversionmaker.ai. Mit einem Klick auf den Bestätigungslink bestätigst du außerdem, dass Conversion Maker dir zukünftig aktuelle Nachrichten, Informationen und Angebote rund um Conversionmaker.ai per E-Mail an die E-Mail-Adresse {{email}} übersenden darf. Diese Zustimmung kannst du jederzeit widerrufen. Nach dem Bestätigen deiner Anmeldung kannst du direkt mit deinen ersten Projekten starten.<br><br><a href=\"{{confirmationLink}}\">{{confirmationLink}}</a><br><br>Bei Fragen kannst du uns gerne jederzeit eine E-Mail schreiben.<br><br>Viel Spaß beim Schreiben,<br>{{senderName}}",
       "headline": "Hallo",
-      "subject": "👋 Willkommen im Conversionmaker.ai Team!",
+      "subject": "👋 Willkommen im .ai Team!",
       "title": "Willkommen bei Conversionmaker.ai"
     },
     "onboarding": {
