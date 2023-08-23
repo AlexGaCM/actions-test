@@ -1,19 +1,45 @@
-name: echo on pr open
+name: merge language-files from development into main
 
 on:
   pull_request:
     types:
-      - opened
+      - closed
     branches:
-      - dev
+      - development
 
 jobs:
-  echo_message:
+  cherrypick-files:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
+      - name: checkout development
         uses: actions/checkout@v2
+        with:
+          ref: development
 
-      - name: Echo Message
-        run: echo "A pull request was opened!"
+      - name: check if language-files have been changed in development
+        id: check-changes
+        run: |
+          language_files=("public/locales/de/common.json" "public/locales/en/common.json" "public/locales/fr/common.json")
+          changes=()
+          
+          for file in "${language_files[@]}"; do
+            if git diff --name-only ${{ github.event.before }} ${{ github.sha }} -- "$file" | grep -q "$file"; then
+              changes+=("$file")
+              echo "$file has been changed"
+            fi
+          done
+
+          echo "::set-output name=changes::${changes[*]}"
+
+      - name: merge changes into main
+        if: steps.check-changes.outputs.changes != ''
+        run: |
+          git checkout main
+
+          for file in ${{ steps.check-changes.outputs.changes }}; do
+            git cherry-pick ${{ github.sha }} -- "$file"
+          done
+
+          git commit -m 'language file(s) changed'
+          git push origin main
