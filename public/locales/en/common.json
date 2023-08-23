@@ -30,7 +30,7 @@
       "title": "Welcome to Conversionmaker.ai"
     },
     "onboarding": {
-      "content": "we are happy that you are part of our Conversionmaker.ai team. Your account is now fully set up and you can create your first projects.<br>During your free, {{trialPeriod}}-day trial period, you will have {{aiCredits}} requests to test our AI immediately and you will have the opportunity to optimize your existing texts indefinitely.<br><br>Want to get started right away?<br><br>Check out our product video (https://www.youtube.com/channel/UC6XuBg9Y3MhOfY_JhrKGsUA/featured), which explains the most important steps and features and shows you how to create high-quality texts that increase your conversions in no time. 🚀<br><br>Have fun writing,<br>{{senderName}}",
+      "content": "we are happy that you are part of our Conversionmaker.ai team. Your  is now fully set up and you can create your first projects.<br>During your free, {{trialPeriod}}-day trial period, you will have {{aiCredits}} requests to test our AI immediately and you will have the opportunity to optimize your existing texts indefinitely.<br><br>Want to get started right away?<br><br>Check out our product video (https://www.youtube.com/channel/UC6XuBg9Y3MhOfY_JhrKGsUA/featured), which explains the most important steps and features and shows you how to create high-quality texts that increase your conversions in no time. 🚀<br><br>Have fun writing,<br>{{senderName}}",
       "headline": "Hello",
       "subject": "✍🏼 Let's launch!",
       "title": "Ready. Set. Go!"
