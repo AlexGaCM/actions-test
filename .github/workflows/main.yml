@@ -20,6 +20,7 @@ jobs:
       - name: check if language-files have been changed in dev
         id: check-changes
         run: |
+          set -x
           language_files=("public/locales/de/common.json" "public/locales/en/common.json" "public/locales/fr/common.json")
           changes=()
           
