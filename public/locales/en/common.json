@@ -1,0 +1,1139 @@
+{
+  "api": {
+    "banner": {
+      "button": "Arrange free consultation <br /> now",
+      "header": "Individual onboarding",
+      "text": "As part of a detailed onboarding process, we work with our customers to identify the best individual integration option and take into account the customer-specific requirements for the connection. Contact us for more information and a non-binding initial discussion."
+    },
+    "content": [
+      {
+        "content": "With the simple integration into existing system landscapes, the use of existing workflows is as easy as can be. This means that any company can realize the benefits of Conversionmaker.ai <span className='font-bold'>efficiently and cost-effectively</span> .",
+        "header": "Automation"
+      },
+      {
+        "content": "For technology partners and large customers, our API and modern SDKs also provide an easy way to integrate Conversionmaker.ai into their systems and applications (e.g. PIM, CMS, store systems or similar). This offers opportunities to profit from our modern AI technology in commercial use in a scalable way.",
+        "header": "Individualization"
+      }
+    ],
+    "header": "Integration of Conversionmaker.ai <br /> into existing system environment",
+    "title": "Integrations | Conversionmaker.ai"
+  },
+  "customerSlider": {
+    "heading": "More than 1,000 active users already trust us"
+  },
+  "emails": {
+    "doi": {
+      "content": "please confirm your registration at Conversionmaker.ai by clicking on the following link. After that you can start directly with your first projects.<br><br><a href=\"{{confirmationLink}}\">{{confirmationLink}}</a><br><br>If you have any questions, please feel free to send us an email.<br><br>Have fun writing,<br>{{senderName}}",
+      "content.marketing": "please confirm your registration with Conversionmaker.ai. By clicking on the confirmation link you also confirm that Conversion Maker may send you news, information and offers about Conversionmaker.ai by email to the email address {{email}} in the future. You can revoke this consent at any time. After confirming your registration you can start directly with your first projects.<br><br><a href=\"{{confirmationLink}}\">{{confirmationLink}}</a><br><br>If you have any questions, please feel free to send us an email.<br><br>Have fun writing,<br>{{senderName}}",
+      "headline": "Hello",
+      "subject": "👋 Welcome to the Conversionmaker.ai Team!",
+      "title": "Welcome to Conversionmaker.ai"
+    },
+    "onboarding": {
+      "content": "we are happy that you are part of our Conversionmaker.ai team. Your account is now fully set up and you can create your first projects.<br>During your free, {{trialPeriod}}-day trial period, you will have {{aiCredits}} requests to test our AI immediately and you will have the opportunity to optimize your existing texts indefinitely.<br><br>Want to get started right away?<br><br>Check out our product video (https://www.youtube.com/channel/UC6XuBg9Y3MhOfY_JhrKGsUA/featured), which explains the most important steps and features and shows you how to create high-quality texts that increase your conversions in no time. 🚀<br><br>Have fun writing,<br>{{senderName}}",
+      "headline": "Hello",
+      "subject": "✍🏼 Let's launch!",
+      "title": "Ready. Set. Go!"
+    },
+    "subscription": {
+      "content": "please confirm your subscription to our newsletter now and receive regular relevant updates.<br /><br /><a href=\"{{confirmationLink}}\">{{confirmationLink}}</a><br /><br />By clicking on the confirmation link, you confirm that Conversion Maker may send you future news, information and offers related to Conversionmaker.ai by email to the email address {{email}} . You can revoke this consent at any time.<br /><br />Have fun,<br>your Conversionmaker.ai Team",
+      "headline": "Hello,",
+      "subject": "Confirm your newsletter subscription now",
+      "title": "Your newsletter subscription"
+    }
+  },
+  "faq": [
+    {
+      "content": "The Copy Score is calculated using a weighted set of rules applied to your texts. The set of rules results from years of experience in conversion rate optimization and the results of thousands of A/B tests.",
+      "question": "How is the Copy Score calculated?"
+    },
+    {
+      "content": "You can achieve a copy score of 100 by improving your text with the help of our text optimization suggestions. In addition, your text should be free of grammatical and spelling errors, tailored to your target audience, and easy to read.",
+      "question": "How do I achieve a Copy Score of 100?"
+    },
+    {
+      "content": "Conversionmaker.ai supports the following languages: <div class='pl-16 pt-4 grid sm:grid-cols-2'><li>Bulgarian</li><li>Chinese</li><li>Danish</li><li>German (+ Austria & Switzerland)</li><li>English (GB + US)</li><li>Estonian</li><li>Finnish</li><li>French</li><li>Greek</li><li>Indonian</li><li>Italian</li><li>Japanese</li><li>Korean</li><li>Latvian</li><li>Lithuanian</li><li>Dutch</li><li>Norwegian</li><li>Polish</li><li>Portuguese (+BR)</li><li>Romanian</li><li>Russian</li><li>Swedish</li><li>Slovak</li><li>Slovenian</li><li>Spanish</li><li>Czech</li><li>Turkish</li><li>Ukrainian</li><li>Hungarian</li></div>",
+      "question": "Which languages are supported?"
+    },
+    {
+      "content": "We determine the tone of your text together during onboarding. We analyze your input and your target audience and then choose the tonality for you based on the results of thousands of tests. In addition, you will always receive up to three text proposals in different tonalities from which you can choose.",
+      "question": "Can I specify the tonality in the texts?"
+    },
+    {
+      "content": "Currently we offer a direct connection to Shopware, Shopify, Magento 2, Google Analytics. Conversionmaker.ai can also be connected to any PIM system, ERP system or CMS via REST API.",
+      "question": "What integrations with store or PIM systems do you offer?"
+    },
+    {
+      "content": "Yes, Conversionmaker.ai can be connected to any marketing tool via our API. All you have to do is create a project in our software and you can integrate Conversionmaker.ai into your marketing tool.",
+      "question": "Can I couple Conversionmaker.ai with existing marketing tools?"
+    },
+    {
+      "content": "You can invite your colleagues to your existing project directly via the user management in Conversionmaker.ai. They will then receive an invitation code from us via email and can accept your invitation.",
+      "question": "How can others join my project?"
+    },
+    {
+      "content": "The free trial is a light version of our professional plan. You can test all features only in the paid version for 7 days.",
+      "question": "What is included in my free trial?"
+    },
+    {
+      "content": "After the end of your trial period, you can switch to the plan that suits you best at any time. Your trial period expires after the trial period without any costs for you. You do not have to cancel the trial period.",
+      "question": "What happens after the end of my trial period?"
+    },
+    {
+      "content": "The rates differ in the features, the support available to you and the number of AI words you can run per month. You can find more information about this on our plan overview.",
+      "question": "How do the plans differ?"
+    },
+    {
+      "content": "The contract period of the Professional and Enterprise plan is at least 12 months. The amount is invoiced on an annual basis. You can also pay and top up KI-Credits via PayPal at any time.",
+      "question": "What payment methods are supported?"
+    },
+    {
+      "content": "The costs for the Enterprise plan are based on the number of your unique users. We will be happy to create an <a class='text-blue-500 hover:underline cursor-pointer' target='_blank' href='https://calendly.com/sbrenner-cm/besprechung-30-min?month=2023-07'>individual offer</a> for you",
+      "question": "What does the Enterprise plan cost?"
+    },
+    {
+      "content": "You can cancel your plan at any time within the cancellation period by sending an email to <a class='text-blue-500 hover:underline cursor-pointer' href='mailto:mwitzenleiter@conversionmaker.com'>mwitzenleiter@conversionmaker.com</a> with your cancellation. In case of an annual contract period, the cancellation must be declared at least 90 days before the end of the contract period.",
+      "question": "How can I cancel?"
+    },
+    {
+      "content": "The texts are generated independently for each request. With a probability of more than 99%, the text you generate is unique and you have the full right to use your generated texts.",
+      "question": "Are copyright infringements ruled out?"
+    },
+    {
+      "content": "Yes, when using Conversionmaker.ai, your data will not be used or stored as training data with OpenAI (unlike when using ChatGPT regularly)",
+      "question": "Is the usage privacy compliant?"
+    }
+  ],
+  "footer": {
+    "address": {
+      "heading": "Contact"
+    },
+    "menu": {
+      "cookie": "Cookie Policy",
+      "data": "Data Protection",
+      "heading": "Contents",
+      "imprint": "Site Notice",
+      "tc": "T&C"
+    },
+    "socialMedia": {
+      "facebook": "on Facebook",
+      "heading": "Social Media",
+      "instagram": "on Instagram",
+      "linkedIn": "on LinkedIn"
+    },
+    "title": "Write professional product and marketing copy that really sells."
+  },
+  "form": {
+    "labels": {
+      "email": "Email address",
+      "message": "Your message",
+      "name": "Name"
+    },
+    "submit": {
+      "label": "Submit"
+    },
+    "validations": {
+      "email": {
+        "email": "Please enter a valid email address.",
+        "empty": "Please enter your email address."
+      },
+      "message": {
+        "empty": "Please enter a message.",
+        "min": "Your message should contain at least 20 characters."
+      },
+      "name": {
+        "empty": "Please enter your name.",
+        "min": "Your name should contain at least two characters."
+      }
+    }
+  },
+  "generic": {
+    "background": "Background image",
+    "comingSoon": "coming soon",
+    "locale": "en_US",
+    "readMore": "Read more",
+    "videoCode": "blHVmTYv9rY"
+  },
+  "gpt3": {
+    "hero": {
+      "header": "<span class=\"lg:text-5xl md:text-4xl\">Conversionmaker.ai: Your professional alternative to ChatGPT</span>"
+    }
+  },
+  "header": {
+    "menu": {
+      "api": "API Documentation",
+      "blog": "Blog",
+      "blogTeaser": "Test product texts correctly",
+      "contact": "Contact",
+      "events": "Events",
+      "faq": "FAQ",
+      "features": "Features",
+      "integrations": "Integration",
+      "onboarding": "Onboarding",
+      "plans": "Pricing",
+      "product": "Product",
+      "resources": "Resources"
+    },
+    "navigation": {
+      "cta": "Start for free",
+      "login": "Log in"
+    },
+    "languages": {
+      "german": "German",
+      "english": "English",
+      "french": "French"
+    }
+  },
+  "onboarding": {
+    "content": {
+      "heading": "Individualizations on <br /> customer request",
+      "subElements": [
+        {
+          "heading": "Individual text design",
+          "bulletpoints": [
+            "Type of text (e.g. product description text, category page text)",
+            "Text structure (e.g. paragraphs, formatting)",
+            "Formulations (e.g. consideration of advertising effect formulas)",
+            "Language style (e.g. addressing you/you, formal/informal)",
+            "Text length specifications"
+          ]
+        },
+        {
+          "heading": "Definition of the output languages"
+        },
+        {
+          "heading": "Tool integration depending on the creation process",
+          "bulletpoints": [
+            "Stand-alone GUI",
+            "API usage for own integration (<a href='https://cmai.readme.io' class='text-blue-500 hover:text-blue-600 cursor-pointer' target='_blank'>API Documentation</a>)",
+            "Webshop plugin (e.g. Shopware, Shopify, Magento)",
+            "PIM, ERP, CMS plugins on customer request",
+            "Batch processing of defined input/output files"
+          ]
+        }
+      ]
+    },
+    "heading": {
+      "desktop": "Integration and onboarding <br /> of Conversionmaker.ai",
+      "mobile": "Integration and onboarding of Conversionmaker.ai"
+    },
+    "text": "We support you in the successful integration of Conversionmaker.ai into your processes. Benefit from our expert know-how in the areas of machine learning, conversion rate optimization, data analysis and customer success management. Automate your copywriting for higher conversions and more growth.",
+    "title": "Onboarding | Conversionmaker.ai ",
+    "tileheading": "Onboarding process of Conversionmaker.ai",
+    "tiles": [
+      {
+        "heading": "Process",
+        "bulletpoints": [
+          "Type of text (e.g. product description text, category page text)",
+          "Text structure (e.g. paragraphs, formatting)",
+          "Formulations (e.g. consideration of advertising effect formulas)",
+          "Language style (e.g. addressing you/you, formal/informal)",
+          "Text length specifications"
+        ]
+      },
+      {
+        "heading": "Individual text design",
+        "bulletpoints": [
+          "Customer: Provision of reference and learning texts, style specifications and individualization parameters.",
+          "Conversionmaker.ai: Design of the individual AI controller, AI training"
+        ]
+      },
+      {
+        "heading": "Workflow connection",
+        "subHeading": "Conversionmaker.ai team with customer:",
+        "bulletpoints": [
+          "Mapping of the text creation workflow, decision on preferred integration",
+          "If necessary, definition of data formats or individual adaptations for data exchange",
+          "For API connection: Implementation of the integration on the customer side"
+        ]
+      },
+      {
+        "heading": "Analytics connection for reporting (Google Analytics)",
+        "subHeading": "Conversionmaker.ai team with customer:",
+        "bulletpoints": [
+          "Enable Google Analytics access for the relevant data",
+          "Determination of the web pages/product texts to be analyzed"
+        ]
+      }
+    ]
+  },
+  "pages": {
+    "contact": {
+      "address": {
+        "CTA": "Show location",
+        "description": "Conversion Maker GmbH <br /> Beim Alten Ausbesserungswerk 4 <br /> 77654 Offenburg - Germany",
+        "heading": "Address"
+      },
+      "headingDesktop": "You still have a question? <br/> We are happy to help you!",
+      "headingMobile": "You still have a question? We are happy to help you!"
+    },
+    "events": {
+      "claim": "You want to start writing now? Sign up for free and convince yourself. With our <span class='font-medium'>excludive deal</span> you can use Conversionmaker.ai 14 days for free.",
+      "heading": "Anyone can write <span class='inline text-blue-500'>professional marketing copies</span> that sell."
+    },
+    "faq": {
+      "meta": {
+        "description": "AI-powered tool for simple and fast creation of high-performing marketing copies. Boost your sales!",
+        "og": {
+          "description": "AI-powered tool for simple and fast creation of high-performing marketing copies. Boost your sales!",
+          "title": "Conversionmaker.ai - AI based text generation"
+        },
+        "title": "Frequently asked questions"
+      },
+      "title": "Here you will find the right <span class='text-blue-500'>answer</span> to your questions"
+    },
+    "home": {
+      "advantageBox": {
+        "advantages": {
+          "betterSeoVisibility": {
+            "description": "Generate thousands of unique texts containing your relevant keywords and optimize the visibility of your generated texts.",
+            "title": "Better SEO visibility"
+          },
+          "higherConversionRate": {
+            "description": "With Conversionmaker.ai you can easily create outstanding product descriptions that will convince your customers.",
+            "title": "Higher conversion rate"
+          },
+          "lessCost": {
+            "description": "Increase your teams' productivity by automating your content creation and save critical resources.",
+            "title": "Less costs"
+          },
+          "timeSaving": {
+            "description": "Unique texts at the push of a button. Our text automation gives you thousands of high-quality texts in seconds.",
+            "title": "90% time saving"
+          }
+        },
+        "description": "With Conversionmaker.ai you automatically create high-quality content in more than 15 languages.",
+        "title": "Achieve maximum success through good texts"
+      },
+      "advantages": [
+        {
+          "alt": "Optimize your conversion rate",
+          "content": "Thanks to active addressing of the user's perspective, emotional words, simple sentences and much more, your texts become high-quality marketing copies.",
+          "title": "Optimize your conversion rate"
+        },
+        {
+          "alt": "Save up to 90 % time on texting",
+          "content": "With the help of AI text generation, you receive a variety of text suggestions and inspiration in just a few seconds. Texting has never been this easy.",
+          "title": "Save up to 90&nbsp;% time on texting"
+        },
+        {
+          "alt": "Improve your SEO visibility",
+          "content": "We make sure that your keywords are naturally interwoven with the text, ensuring the visibility of your products.",
+          "title": "Improve your SEO visibility"
+        }
+      ],
+      "alternateCta": {
+        "bullets": [
+          "Create conversion-optimized marketing copies in under three minutes",
+          "Get inspired by numerous text suggestions",
+          "Optimize your texts easily with our analysis tool"
+        ],
+        "button": "Try {{days}} days for free",
+        "heading": "Try Conversionmaker.ai {{days}}&nbsp;days for free!"
+      },
+      "appDemo": {
+        "videoHeader": "We'll show you how it works!"
+      },
+      "application": {
+        "heading": "Example: Gas barbecue",
+        "input": {
+          "button": "Generate text suggestions",
+          "heading": "<span class='ml-6 mr-2 inline-block'>✍️</span>Your input",
+          "types": {
+            "product": {
+              "keyword": {
+                "label": "SEO keywords (optional)",
+                "value": "Gas barbecue, Camping"
+              },
+              "text": {
+                "label": "Advantages, features & usage scenarios",
+                "value": "Anti-stick grill grate prevents food from sticking.\nInfinitely variable burners for perfect grilling results.\nRemovable grease drip tray for easy cleaning.\nUnforgettable barbecues with friends and family."
+              },
+              "title": {
+                "label": "Product name",
+                "value": "BBQ-Pro Gas Barbecue M-1000"
+              }
+            }
+          }
+        },
+        "output": {
+          "carousel": [
+            {
+              "content": "<p>The barbecue season has arrived and you are looking for a high quality yet inexpensive <span class='text-blue-500'>gas barbecue</span>? Then we recommend the the <strong>M-1000 <span class='text-blue-500'>gas barbecue</span> from BBQ-PRO</strong>. This grill series is especially suitable for the demanding and exact grill gourmet. <br /><br />The non-stick grill surface also prevents food from sticking when <span class='text-blue-500'>camping</span> and is designed for a particularly long service life thanks to a special coating. The adjustable and easy-to-use burners ensure perfect grilling results. A high efficiency of the burners guarantees the short warm-up time and a long burn time.</p>"
+            },
+            {
+              "content": "<p>The <strong><span class='text-blue-500'>camping gas barbecue</span> M-1000 from BBQ-PRO</strong> is a compact barbecue for <span class='text-blue-500'>camping</span> and garden area. It is made of sturdy cast aluminum and has a cast grill grate that prevents food from sticking. The removable grease drip tray makes cleaning particularly easy.<br /><br />The enclosed instructions show you step by step how to optimally set up and use the <span class='text-blue-500'>gas barbecue</span>.</p>"
+            },
+            {
+              "content": "<p>Are you looking for a compact, robust and lightweight <span class='text-blue-500'>gas barbecue</span> that you can also use when <span class='text-blue-500'>camping</span>? Then the <strong>BBQ-PRO gas grill M-1000</strong> is the golden choice for you! The special feature of this <span class='text-blue-500'>gas barbecue</span> is the easy cleaning: The porcelain-melted cast grill grate prevents sticking of grilled food.<br /><br />The infinitely variable burner valve allows you to adjust the temperature for the grilling process optimally. The ease of use of the M-1000 will give you unforgettable grilling experiences.</p>"
+            }
+          ],
+          "generating": {
+            "placeholder": "Click on the<br />\"Generate text suggestions\"<br />button.",
+            "title": "Text suggestions are generated..."
+          },
+          "heading": "<span class='ml-6 mr-2 inline-block'>🤖</span>Your AI text proposals <span class='font-light sm:inline block sm:ml-0 ml-6'>(freely combinable!)</span>"
+        }
+      },
+      "arrangeDemoBanner": {
+        "bulletpoints": [
+          "personal conversation",
+          "Individual advice"
+        ],
+        "button": "Arrange free consultation now",
+        "description": "You are still unsure what you really need? We at Conversionmaker.ai are happy to help you find the right plan for you.",
+        "title": "Unsure which plan fits your needs?"
+      },
+      "contact": {
+        "cta": "Get in touch",
+        "form": {
+          "heading": "Contact",
+          "submission": "Thank you for your message. We will get back to you as soon as possible.",
+          "text": "We usually respond within one business day."
+        },
+        "heading": "Still have a question?",
+        "text": "Contact us at any time. We are happy to help you!"
+      },
+      "cta": {
+        "bullets": [
+          "Create conversion-optimized marketing texts in under three minutes",
+          "Combine completely freely from numerous text suggestions",
+          "Optimize your texts easily with our analysis tool"
+        ],
+        "button": "Try {{days}} days for free",
+        "claim": "Ideal for shop owners, copywriters, agencies and many more.",
+        "heading": "Get the full power of texting!"
+      },
+      "demoVideo": {
+        "features": {
+          "automatedTextGeneration": {
+            "description": "The customized integration of our solution into your systems ensures true automation of your text processes. This allows you to reduce your costs and increase efficiency. Thanks to our unique API connection, you have the ability to create thousands of marketing texts completely automatically in a very short time. <a href='https://cmai.readme.io/reference/createaiasktheai' target='_blank' class='text-blue-500 hover:underline'>Learn more here.</a>",
+            "title": "Automated text creation"
+          },
+          "generateTexts": {
+            "description": "The AI we have trained automatically creates unique and professional marketing texts that sell, using just a few keywords.<br /> <br /> What's special about it? Our AI analyzes your existing texts and provides you with individual text suggestions for a wide variety of use cases.",
+            "title": "Create converting texts in seconds"
+          },
+          "optimizeTexts": {
+            "description": "You too can benefit from our many years of expertise in the field of CRO. Optimize your existing marketing texts with the help of our professional tips, which were developed based on the results of countless A/B tests in the wording and content area.",
+            "title": "Optimize your texts with our professional tips"
+          },
+          "shopIntegration": {
+            "description": "Through the connection to Shopify, Shopware or Google Analytics, you have all key figures at a glance. Easily identify the greatest uplift potential of your existing texts.<br /> <br /> If you link your website or your stores, our AI adapts to your writing style and provides you with even better text suggestions.",
+            "title": "Full integration of your store"
+          }
+        },
+        "title": "Functions and advantages"
+      },
+      "faq": {
+        "heading": "Frequently asked questions",
+        "link": "Show all FAQs",
+        "paragraph": "We could not answer your question?"
+      },
+      "features": {
+        "heading": "Possibilities of integration",
+        "items": [
+          {
+            "alt": "Integrations",
+            "content": {
+              "content": "For the industry-leading systems, we have already developed an existing integration that can be used directly and easily. In addition, we are constantly expanding our integration capabilities:",
+              "heading": "Existing connections to store systems, PIM and ERP"
+            }
+          },
+          {
+            "alt": "Integrations",
+            "content": {
+              "content": "All functions and customer-specific settings can be configured and connected via an API. Modern SDKs in various programming environments are also available for this purpose. <span class='text-blue-500'>The API documentation can be found <a class='underline cursor-pointer' target='_blank' href='https://cmai.readme.io/reference/createaiasktheai'>here</a></span>",
+              "heading": "Individual integration via API and modern SDK"
+            }
+          },
+          {
+            "alt": "Integrations",
+            "content": {
+              "content": "A simple solution for integration without major effort is the exchange of data via defined input/output files. The individual, already existing customer data in the data format such as CSV or XML is taken into account for the text input. The output file with the AI generated texts can then be easily processed further. The files are provided as download in the tool or as storage on SFTP servers.",
+              "heading": "Easy exchange via input/output files"
+            },
+            "icons": [
+              {
+                "alt": "Shopify integration"
+              },
+              {
+                "alt": "Shopware integration"
+              },
+              {
+                "alt": "Google Analytics Integration"
+              }
+            ]
+          }
+        ]
+      },
+      "header": {
+        "cta": {
+          "arrangeDemo": "Request demo",
+          "testphase": "{{days}} Test free of charge for days"
+        },
+        "headline": "Power up your E-Commerce - Automated text creation with <span class='text-blue-500'>Conversionmaker.ai</span>",
+        "text": "Create perfect texts that convince your target audience in just a few seconds with the leading platform for text optimization and generation.",
+        "typed": {
+          "blogposts": "Blog posts",
+          "category": "Category texts",
+          "emails": "Emails",
+          "marketing": "Marketing texts",
+          "marketplace": "Marketplace texts",
+          "newsletter": "Newsletter",
+          "products": "Product texts",
+          "socialmedia": "Social Media Posts"
+        }
+      },
+      "hero": {
+        "button": "Try {{days}} days for free",
+        "claim": "More sales. Less work.",
+        "heading": "Anyone can write <span class=\"inline text-blue-500\">professional marketing copies</span> that sell.",
+        "placeholder": "Email address",
+        "subheading": "Create perfect texts that convince your target group in just a few seconds with the leading platform for text optimization and generation."
+      },
+      "meta": {
+        "description": "AI-powered tool for simple and fast creation of high-performing marketing copies. Boost your sales!",
+        "og": {
+          "description": "AI-powered tool for simple and fast creation of high-performing marketing copies. Boost your sales!",
+          "title": "Conversionmaker.ai - Automated text generation"
+        },
+        "title": "Software for automated text generation"
+      },
+      "moduleList": {
+        "comingSoon": "Coming soon",
+        "foldTable": {
+          "showLess": "Show less features",
+          "showMore": "Show all features"
+        },
+        "heading": {
+          "desktop": "Our modules offer you all the functions <br /> you need",
+          "mobile": "Our modules <br /> offer you all <br /> functions you <br /> need"
+        },
+        "modules": [
+          {
+            "description": "Create meaningful product descriptions for your online store that will convince your customers and increase sales.",
+            "title": "Product descriptions"
+          },
+          {
+            "description": "Create a professional category text that will inform your customers and rank well in search engines.",
+            "title": "Category texts"
+          },
+          {
+            "description": "Create meaningful product texts for your marketplaces like Amazon, OTTO, eBay or Zalando and increase your sales.",
+            "title": "Marketplace texts"
+          },
+          {
+            "description": "Put an end to unread emails. Quickly write emails and newsletters with compelling subject lines and preview text that get readers to open and interact.",
+            "title": "Emails & Newsletter"
+          },
+          {
+            "description": "Save time and let our AI create your blog posts - including convincing headline",
+            "title": "Blog posts"
+          },
+          {
+            "description": "Create engaging posts for LinkedIn, Instagram, Facebook & Co that get your followers to interact and increase your reach.",
+            "title": "Social media texts"
+          },
+          {
+            "description": "Summarize your texts quickly and easily in keywords or rewrite the text without changing the content.",
+            "title": "Summarize or rewrite texts"
+          },
+          {
+            "description": "With our module \"Ask the AI\" you can create any kind of text. From job postings to song lyrics.",
+            "title": "Marketing texts of any kind"
+          },
+          {
+            "description": "Create compelling CTAs that get more visitors to convert.",
+            "title": "Call-to-Actions"
+          }
+        ]
+      },
+      "newsletter": {
+        "banner": {
+          "bulletpoints": [
+            "Be the first to know about our new features & modules",
+            "Do not miss any of our exclusive promotions",
+            "Profit from our professional tips for perfect texts"
+          ],
+          "header": "Always stay up to date"
+        },
+        "button": "Subscribe",
+        "content": "Be the first to hear about our new features & modules. Don't miss any of our exclusive promotions. Profit from our professional tips for perfect texts",
+        "disclaimer": "Privacy is important to us. For more information, please see our <a href='/datenschutz' target='_blank'>Privacy Policy</a>.",
+        "heading": "Sign up for our newsletter<br/>and stay up-to-date!",
+        "placeholder": "E-mail address"
+      },
+      "partnership": {
+        "button": "Become a partner now",
+        "contact": "Partnership form",
+        "heading": "Perfect texts for your customers",
+        "text": "The Conversionmaker.ai Partner Program is the easiest way for agencies and technology providers to simplify and optimize their clients' content creation process. Our AI-based text generation and optimization platform delivers the best texts.",
+        "title": "Affiliate Program | Conversionmaker.ai"
+      },
+      "sliderHeader": "Known from leading media",
+      "statistics": {
+        "activeUsers": "active users of <br /> Conversionmaker.ai",
+        "conversionRate": "more conversions through <br /> outstanding texts",
+        "moreTraffic": "more traffic through SEO- <br /> optimized content"
+      },
+      "textTypes": {
+        "boxes": [
+          {
+            "content": "Create expressive product descriptions for your online shop and marketplaces that will increase your sales.",
+            "title": "Product descriptions"
+          },
+          {
+            "content": "Save time and let our AI create your blog posts - including a convincing headline.",
+            "title": "Blog Posts"
+          },
+          {
+            "content": "Put an end to unread emails. Quickly write emails and newsletters with compelling subject lines and preheaders that get readers to open them.",
+            "title": "Emails & Newsletter"
+          },
+          {
+            "content": "Create engaging posts for LinkedIn, Instagram, Facebook & Co that get your followers to interact.",
+            "title": "Social Media Posts"
+          },
+          {
+            "content": "Create unique product descriptions for your marketplaces like Amazon, OTTO, eBay or Zalando and increase your sales.",
+            "title": "Marketplace"
+          },
+          {
+            "content": "Find the right wording and rewrite your texts fast and easy without changing the content.",
+            "title": "Rewrite"
+          },
+          {
+            "content": "Summarize your text easily in keywords without losing any content.",
+            "title": "Summarize"
+          },
+          {
+            "content": "Create compelling CTAs that get more visitors to convert.",
+            "title": "Call-To-Action"
+          }
+        ],
+        "heading": "How can Conversionmaker.ai support you?",
+        "text": "Choose the right feature for your use case from different text types."
+      }
+    },
+    "imprint": {
+      "brand": "Conversionmaker.ai is a registered trademark of Conversion Maker GmbH.<br />All contents of this website are protected by copyright.",
+      "commercialRegister": "Commercial register",
+      "fax": "Fax",
+      "heading": "Imprint",
+      "managingDirector": "Managing director",
+      "meta": {
+        "title": "Imprint"
+      },
+      "phone": "Phone",
+      "responsible": "Responsible: Michael Witzenleiter<br />(responsible  service provider, also in the sense of § 5 TMG or § 55 para. 2 RStV)",
+      "taxNumber": "Tax number"
+    },
+    "logout": {
+      "banner": {
+        "description": "Leave us your review on OMR Reviews and get an exclusive Amazon voucher worth 20 €. Click on the blue button and off you go.",
+        "title": "You are satisfied with Conversionmaker.ai?"
+      },
+      "heading": "Thank you for using Conversionmaker.ai",
+      "meta": {
+        "title": "See you soon"
+      }
+    },
+    "notFound": {
+      "content": "Sorry, the requested page could not be not found",
+      "heading": "Unfortunately this did not work out...",
+      "meta": {
+        "description": "AI-powered tool for simple and fast creation of high-performing marketing copies. Boost your sales!",
+        "title": "Page not found"
+      }
+    },
+    "plan": {
+      "bullets": [
+        "Test {{days}} days for free",
+        "{{aiCredits}} words inclusive",
+        "Connect your online shop",
+        "Multilingualism",
+        "API"
+      ],
+      "cards": {
+        "enterprise": {
+          "claim": "The perfect fit <strong>large companies and agencies</strong> that creates a ton of content in short time.",
+          "cta": "Request demo",
+          "features": [
+            "<span class='text-blue-500'>All features from Professional</span>",
+            "Own conversion rate optimized AI",
+            "Personal contact",
+            "Advance access to features",
+            "Quality and fact check",
+            "Unlimited text generation"
+          ],
+          "name": "Enterprise"
+        },
+        "footer": {
+          "1": "Not sure which plan suits you best?",
+          "2": "All features at a glance"
+        },
+        "inquiry": "Price upon request",
+        "professional": {
+          "claim": "Outstanding for <strong>start-ups</strong>, <strong>scale-ups</strong>, <strong>smaller companies</strong> and <strong>smaller agencies</strong>.",
+          "cta": {
+            "desktop": "Request demo",
+            "mobile": "Request demo <br /> "
+          },
+          "features": [
+            "<span class='text-blue-500'>AI text generation and optimization</span>",
+            "Multilingualism",
+            "Interface access to all existing APIs",
+            "SEO optimization of the AI texts",
+            "Key figure analysis",
+            "250.000 generated words"
+          ],
+          "name": "Professional"
+        },
+        "starter": {
+          "claim": "Excellent for <strong>freelancers</strong> and to check out our text generation.",
+          "cta": "Request demo",
+          "features": [
+            "AI text generation",
+            "Multilingualism",
+            "Interfaces",
+            "SEO optimization of AI copies",
+            "25,000 generated Words"
+          ],
+          "name": "Starter"
+        },
+        "text": "Conversionmaker.ai supports you with text optimization &ndash; regardless of your company size and industry. Start now with a free trial period and then choose the package that's right for you.",
+        "title": "The right plan for your success"
+      },
+      "cta": {
+        "bullet": [
+          "Create conversion-optimized marketing copies in less than three minutes",
+          "Get inspired by numerous text suggestions",
+          "Optimize your texts easily with our analysis tool"
+        ],
+        "button": "Test now {{days}} days for free",
+        "title": "Try Conversionmaker.ai now {{days}}&nbsp;days for free!"
+      },
+      "hero": {
+        "cta": "Start for free",
+        "description": "Perfect for trying out our unique CRO text optimization and generating your first marketing copies.",
+        "placeholder": "Email address",
+        "title": "Free Trial"
+      },
+      "meta": {
+        "description": "AI-powered tool for simple and fast creation of high-performing marketing copies. Boost your sales!",
+        "og": {
+          "description": "AI-powered tool for simple and fast creation of high-performing marketing copies. Boost your sales!",
+          "title": "Conversionmaker.ai - AI based text generation"
+        },
+        "title": "Pricing and Features"
+      }
+    },
+    "registration": {
+      "aside": {
+        "claims": [
+          "Save up to 90&nbsp;% time when texting",
+          "Optimize your conversion rate with unique marketing copies",
+          "Try Conversionmaker.ai for free and without providing any payment data"
+        ],
+        "heading": "Try Conversionmaker.ai {{days}}&nbsp;days for free!"
+      },
+      "confirmation": {
+        "confirmed": {
+          "content": "Thank you for subscribing to our newsletter. From now on you will receive tips and news from us in the areas of marketing, conversion rate optimization and AI text creation.<br/><br/>You can close this window now.",
+          "heading": "Registration successful "
+        },
+        "description": "AI-powered tool for simple and fast creation of high-performing marketing copies. Boost your sales!",
+        "errors": {
+          "alreadyConfirmed": {
+            "button": "To the software",
+            "content": "You have already confirmed your registration and can fully use Conversionmaker.ai.",
+            "heading": "Registration already confirmed"
+          },
+          "doi": {
+            "content": "Unfortunately, you cannot subscribe to this newsletter because you previously unsubscribed from it.<br />To resubscribe to this newsletter, please send an email &nbsp;",
+            "heading": "Registration not possible",
+            "subject": "I would like to subscribe to the blog again."
+          },
+          "generic": {
+            "button": "To the software",
+            "content": "Sorry, this link is no longer valid. Have you already confirmed your registration?",
+            "heading": "Oops, something went wrong!"
+          }
+        },
+        "meta": {
+          "description": "AI-powered tool for simple and fast creation of high-performing marketing copies. Boost your sales!",
+          "og": {
+            "description": "AI-powered tool for simple and fast creation of high-performing marketing copies. Boost your sales!",
+            "title": "An error has occurred"
+          },
+          "title": "An error has occurred"
+        },
+        "title": "An error has occurred"
+      },
+      "finished": {
+        "button": {
+          "calendly": "Make an appointment now",
+          "confirm": "Complete registration"
+        },
+        "calendly": "In addition, we would like to learn how we can better adapt our software to your daily needs in order to support you even better. If you want to start right away, you can use Conversionmaker.ai without a personal onboarding.",
+        "description": "Thank you, you have provided us with all the necessary information and Conversionmaker.ai is now ready to use.<br/>Before you start with your free trial, you have the possibility to sign up for a personal onboarding, where we will introduce you to the most important features and some best practices. 👋",
+        "doi": {
+          "description": "You have provided all the necessary information and we have already prepared everything for you. After you have confirmed your registration (you have already received the email after the first step), you can optimize your marketing copies and generate texts for your new copies.",
+          "heading": "Almost there!"
+        },
+        "heading": "Ready for Takeoff!",
+        "meta": {
+          "description": "AI-powered tool for simple and fast creation of high-performing marketing copies. Boost your sales!",
+          "og": {
+            "description": "AI-powered tool for simple and fast creation of high-performing marketing copies. Boost your sales!",
+            "title": "Ready for Takeoff"
+          },
+          "title": "Ready for Takeoff"
+        }
+      },
+      "form": {
+        "button": "Sign up now",
+        "disclaimer": "Data protection is important to us. Find more information in our <a href='https://conversionmaker.ai/en/datenschutz/' target='_blank' rel='noreferrer' class='text-blue-500 cursor-pointer hover:text-blue-600'>privacy policy</a>.",
+        "email": {
+          "label": "Email address",
+          "validation": {
+            "email": "Please enter a valid email address.",
+            "empty": "Please enter your email address.",
+            "exists": "There is already a user using this email address"
+          }
+        },
+        "heading": "Create your personal access to Conversionmaker.ai now.",
+        "name": {
+          "label": "Name",
+          "validation": {
+            "empty": "Please enter your name.",
+            "min": "Your name should contain at least two characters."
+          }
+        },
+        "newsletter": "I agree that Conversion Maker may contact me for informational and marketing purposes.",
+        "password": {
+          "label": "Password",
+          "validation": {
+            "empty": "Please enter a password.",
+            "min": "Your password must be at least six characters long and must contain at least one lowercase letter, one uppercase letter, and one number.",
+            "pattern": "Your password must contain at least one lowercase letter, one uppercase letter and one number.",
+            "weak": "Please choose a stronger password."
+          }
+        },
+        "tc": "I have read the <a href='https://conversionmaker.ai/agb/' target='_blank' rel='noreferrer' class='text-blue-500 hover:text-blue-600 cursor-pointer'>terms and conditions</a> and accept them."
+      },
+      "meta": {
+        "description": "AI-powered tool for simple and fast creation of high-performing marketing copies. Boost your sales!",
+        "og": {
+          "description": "AI-powered tool for simple and fast creation of high-performing marketing copies. Boost your sales!",
+          "title": "User data"
+        },
+        "title": "User data"
+      },
+      "promotion": {
+        "content": {
+          "discount": "You get {{discount}} percent off of your desired plan.",
+          "period": "You try Conversionmaker.ai {{days}} days for free."
+        },
+        "title": "Your deal:"
+      },
+      "resend": {
+        "button": {
+          "active": "Resend email",
+          "disabled": "Email sent"
+        },
+        "content": "You did not receive an email? Take a look at your spam folders. Maybe our email is hidden there."
+      },
+      "sidebar": {
+        "action": "Start now!",
+        "steps": [
+          {
+            "description": "Create your personal account",
+            "title": "User data"
+          },
+          {
+            "description": "Please confirm your registration",
+            "title": "Confirm registration"
+          }
+        ]
+      },
+      "submission": {
+        "meta": {
+          "description": "AI-powered tool for simple and fast creation of high-performing marketing copies. Boost your sales!",
+          "og": {
+            "description": "AI-powered tool for simple and fast creation of high-performing marketing copies. Boost your sales!",
+            "title": "Thank you for your registration"
+          },
+          "title": "Thank you for your registration"
+        },
+        "paragraph": "To successfully complete your registration, please click on the <b>confirmation link</b> you just received via <b>email</b>.",
+        "title": "Thank you for your registration"
+      }
+    }
+  },
+  "plans": [
+    {
+      "items": [
+        {
+          "label": "Product Descriptions"
+        },
+        {
+          "label": "Category Texts"
+        },
+        {
+          "label": "Marketing Emails"
+        },
+        {
+          "label": "Social Media Posts"
+        },
+        {
+          "label": "Blog Posts"
+        },
+        {
+          "label": "Texts for Marketplaces"
+        },
+        {
+          "enterprise": "Individual",
+          "label": "Speech model",
+          "professional": "Advanced",
+          "starter": "Basic"
+        }
+      ],
+      "label": "Text generation"
+    },
+    {
+      "items": [
+        {
+          "label": "Copy Score"
+        },
+        {
+          "label": "Text optimization"
+        },
+        {
+          "label": "Exclusive content"
+        },
+        {
+          "label": "Dashboard"
+        }
+      ],
+      "label": "Conversion Rate Optimization"
+    },
+    {
+      "items": [
+        {
+          "enterprise": "Like Professional",
+          "label": "Multilingual text generation",
+          "professional": "+ German <br /> + England <br /> + French <br /> + Italian",
+          "starter": "English (GB, US)<br />German (AT, CH, DE)"
+        },
+        {
+          "label": "Dictionaries"
+        },
+        {
+          "label": "Search engine optimization"
+        },
+        {
+          "label": "Multi tenancy"
+        },
+        {
+          "label": "Product administration"
+        },
+        {
+          "label": "Key figure analysis"
+        },
+        {
+          "label": "Exclusive pre-access to features"
+        }
+      ],
+      "label": "Features"
+    },
+    {
+      "items": [
+        {
+          "label": "REST API"
+        },
+        {
+          "label": "Shopware"
+        },
+        {
+          "label": "Shopify"
+        },
+        {
+          "label": "Google Analytics"
+        },
+        {
+          "label": "XML and CSV import / export"
+        }
+      ],
+      "label": "Interfaces"
+    },
+    {
+      "items": [
+        {
+          "enterprise": "unlimited",
+          "label": "User per Project",
+          "professional": "10",
+          "starter": "3"
+        },
+        {
+          "enterprise": "unlimited",
+          "label": "Generated words per month<sup class='text-xs text-slate-400'> 1)</sup>",
+          "professional": "250,000",
+          "starter": "25,000"
+        }
+      ],
+      "label": "Inclusive Volumen"
+    },
+    {
+      "items": [
+        {
+          "label": "In-Software Support"
+        },
+        {
+          "label": "Helpdesk"
+        },
+        {
+          "label": "Email Support"
+        },
+        {
+          "label": "Phone Support"
+        },
+        {
+          "enterprise": "Dedicated contact person",
+          "label": "Contact Person",
+          "professional": "Customer success manager"
+        }
+      ],
+      "label": "Support"
+    },
+    {
+      "items": [
+        {
+          "label": "Visa"
+        },
+        {
+          "label": "Mastercard"
+        },
+        {
+          "label": "American Express"
+        },
+        {
+          "label": "PayPal<sup class='text-xs text-slate-400'> 2)</sup>"
+        },
+        {
+          "label": "Invoice"
+        }
+      ],
+      "label": "Payment methods"
+    }
+  ],
+  "plans.disclaimer.0": "<sup>1)</sup> AI words can be purchased at any time.",
+  "plans.disclaimer.1": "<sup>2)</sup> Payment with PayPal is possible only for depositing AI words",
+  "promotion": {
+    "button": "Join now",
+    "headline": "Birthday special: Win an <span class='text-blue-500'>annual license</span> worth €6,000.",
+    "image": "/images/happy-birthday-en.gif",
+    "timer": {
+      "button": "Join now",
+      "claim": "Win an <span class='text-blue-500'>annual license</span> worth €6,000",
+      "days": "Days",
+      "header": "Black week",
+      "hours": "Hours",
+      "minutes": "Minutes",
+      "promotion": "Raffle ends in",
+      "seconds": "Seconds",
+      "subClaim": "Create a Conversionmaker.ai account for free and you will automatically be entered into the raffle."
+    }
+  },
+  "reviews": {
+    "content": "Conversionmaker.ai helps numerous companies create high-quality content faster. You too can use our AI-powered software to write content that sells in seconds.",
+    "heading": "More than <span class='text-blue-500'>1,000</span> active users already trust us",
+    "reviews": [
+      {
+        "author": "Axel Dietrich",
+        "cite": "We regularly need textual online content, especially product texts. Thanks to Conversionmaker.ai, we can now have these created automatically and thus save time and money. Conveniently, the texts are also SEO- and conversion-optimized at the same time, i.e. the usual post-processing is no longer necessary. And speaking of time savings: We also have our social media and blog posts written by the AI - a real benefit for us!",
+        "heading": "Conversion-optimized texts at the push of a button",
+        "position": "Head of FNX LAB at Fressnapf Tiernahrungs GmbH"
+      },
+      {
+        "author": "Fabian",
+        "cite": "The generation of texts and content in general is becoming more and more challenging. Conversion Maker helps by generating or optimizing product and other texts. For this, the AI only needs a few keywords. The tool usually gives 3 different suggestions after generation, which can then be further optimized.",
+        "heading": "AI generated texts of various types",
+        "position": "Digital Sports Leader at Decathlon Germany"
+      },
+      {
+        "author": "Stephan",
+        "cite": "The tool comes with many different features. Originally, we had targeted a smaller application area - but with the functional tool in hand, the temptation to test the other points was naturally great. All the better that the AI could convince here as well.",
+        "heading": "Practical software suite with tailored support",
+        "position": "Content Manager at Bobshop"
+      },
+      {
+        "author": "Oliver",
+        "cite": "The content agency has a good onboarding process where the objective and relevant keywords are defined. In the full-service variant, editors generate professional texts by using an AI and complement them with infographics and photos. Top service at a fair price",
+        "heading": "Top content agency with smart AI",
+        "position": "CEO at HR Puls GmbH"
+      }
+    ],
+    "title": "What our customers say"
+  },
+  "slides": [
+    {
+      "alt": "Clock",
+      "description": "The ladies wristwatch in silver is a timeless accessory. Its noble appearance and stylish design match any outfit - from casual to ultrachic. The subtle shine of the mesh strap gives the watch a touch of luxury and makes it comfortable to wear.",
+      "keywords": [
+        "Wrist watch",
+        "noble",
+        "Silver",
+        "stylish"
+      ],
+      "title": "Ladies Wrist Watch Silver"
+    },
+    {
+      "alt": "Clock",
+      "description": "Maxi Outdoor Tent is a spacious and practical tent for camping trips. Two doors provide great ventilation and easy entry and exit. Hours of camping fun is guaranteed, because the waterproof tent is set up in seconds.",
+      "keywords": [
+        "Throw tent",
+        "spacious",
+        "waterproof"
+      ],
+      "title": "Maxi outdoor tent"
+    }
+  ],
+  "table": {
+    "closeTable": "Show less content",
+    "languages": {
+      "availableLanguages": {
+        "dialog": {
+          "languages": [
+            "German",
+            "English",
+            "French",
+            "Italian",
+            "Dutch",
+            "Spanish",
+            "Danish",
+            "Japanese",
+            "Portuguese (PT, BR)",
+            "Romanian",
+            "Polish",
+            "Swedish",
+            "Slovak",
+            "Slovenian"
+          ],
+          "text": "The following languages are supported:",
+          "title": "available languages"
+        },
+        "languageList": "+ German <br />+ English <br />+ French <br />+ Italian <br />+ Dutch <br />+ Spanish <br />+ Danish <br />+ Japanese <br />+ Portugese <br />+ Romanian <br />+ Polish <br />+ Swedish <br />+ Slovak <br />+ Slovenian"
+      },
+      "moreLanguages": {
+        "desktop": {
+          "showMore": "+ <span class='underline'>10 more Languages</span>",
+          "showLess": "- <span class='underline'>Show less</span>"
+        },
+        "mobile": "+ <span class='underline'>14 more Languages</span>"
+      }
+    },
+    "openTable": "Show all content"
+  }
+}
