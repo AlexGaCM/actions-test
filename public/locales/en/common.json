@@ -2,7 +2,7 @@
   "api": {
     "banner": {
       "button": "Arrange free consultation <br /> now",
-      "header": "Individual onboarding",
+      "header": "Individual ",
       "text": "As part of a detailed onboarding process, we work with our customers to identify the best individual integration option and take into account the customer-specific requirements for the connection. Contact us for more information and a non-binding initial discussion."
     },
     "content": [
@@ -11,11 +11,11 @@
         "header": "Automation"
       },
       {
-        "content": "For technology partners and large customers, our API and modern SDKs also provide an easy way to integrate Conversionmaker.ai into their systems and applications (e.g. PIM, CMS, store systems or similar). This offers opportunities to profit from our modern AI technology in commercial use in a scalable way.",
+        "content": "For technology partners and large customers, our API and modern SDKs also provide an easy way to  Conversionmaker.ai into their systems and applications (e.g. PIM, CMS, store systems or similar). This offers opportunities to profit from our modern AI technology in commercial use in a scalable way.",
         "header": "Individualization"
       }
     ],
-    "header": "Integration of Conversionmaker.ai <br /> into existing system environment",
+    "header": "Integration of Conversionmaker.ai <br /> into existing  environment",
     "title": "Integrations | Conversionmaker.ai"
   },
   "customerSlider": {
@@ -30,7 +30,7 @@
       "title": "Welcome to Conversionmaker.ai"
     },
     "onboarding": {
-      "content": "we are happy that you are part of our Conversionmaker.ai team. Your account is now fully set up and you can create your first projects.<br>During your free, {{trialPeriod}}-day trial period, you will have {{aiCredits}} requests to test our AI immediately and you will have the opportunity to optimize your existing texts indefinitely.<br><br>Want to get started right away?<br><br>Check out our product video (https://www.youtube.com/channel/UC6XuBg9Y3MhOfY_JhrKGsUA/featured), which explains the most important steps and features and shows you how to create high-quality texts that increase your conversions in no time. 🚀<br><br>Have fun writing,<br>{{senderName}}",
+      "content": "we are happy that you are part of our Conversionmaker.ai team. Your  is now fully set up and you can create your first projects.<br>During your free, {{trialPeriod}}-day trial period, you will have {{aiCredits}} requests to test our AI immediately and you will have the opportunity to optimize your existing texts indefinitely.<br><br>Want to get started right away?<br><br>Check out our product video (https://www.youtube.com/channel/UC6XuBg9Y3MhOfY_JhrKGsUA/featured), which explains the most important steps and features and shows you how to create high-quality texts that increase your conversions in no time. 🚀<br><br>Have fun writing,<br>{{senderName}}",
       "headline": "Hello",
       "subject": "✍🏼 Let's launch!",
       "title": "Ready. Set. Go!"
@@ -56,7 +56,7 @@
       "question": "Which languages are supported?"
     },
     {
-      "content": "We determine the tone of your text together during onboarding. We analyze your input and your target audience and then choose the tonality for you based on the results of thousands of tests. In addition, you will always receive up to three text proposals in different tonalities from which you can choose.",
+      "content": "We determine the tone of your text together during onboarding. We analyze your  and your target audience and then choose the tonality for you based on the results of thousands of tests. In addition, you will always receive up to three text proposals in different tonalities from which you can choose.",
       "question": "Can I specify the tonality in the texts?"
     },
     {
