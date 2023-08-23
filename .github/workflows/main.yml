@@ -14,8 +14,6 @@ jobs:
     steps:
       - name: checkout dev
         uses: actions/checkout@v2
-        with:
-          ref: dev
 
       - name: check if language-files have been changed in dev
         id: check-changes
