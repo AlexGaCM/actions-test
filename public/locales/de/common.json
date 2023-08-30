@@ -1,13 +1,13 @@
 {
   "api": {
     "banner": {
-      "button": "Jetzt Onboarding BeratungBeratung <br /> vereinbaren",
+      "button": "Jetzt Onboarding TEST TESTTESTTEST <br /> vereinbaren",
       "header": "OnboardingOnboardingOnboardingOnboardingOnboardingOnboardingOnboarding",
       "text": "Im Rahmen eines detaillierten  identifizieren wir  mit unseren Kunden die individuell beste Integrationsoption und berücksichtigen die kundenspezifischen Anforderungen bei der Anbindung. Kontaktieren Sie uns für weitere Infos und ein unverbindliches erstes Gespräch."
     },
     "content": [
       {
-        "content": "Mit der einfachen  in existierende Systemlandschaften ist die Nutzung bestehender Workflows denkbar einfach. Damit kann jedes Unternehmen die Vorteile von Conversionmaker.ai <span className='font-bold'>effizient und kostengünstig</span> realisieren.",
+        "content": "Mit der TEST  in existierende Systemlandschaften ist die Nutzung bestehender Workflows denkbar einfach. Damit kann jedes Unternehmen die Vorteile von Conversionmaker.ai <span className='font-bold'>effizient und kostengünstig</span> realisieren.",
         "header": "Automatisierung"
       },
       {
@@ -780,7 +780,7 @@
       "finished": {
         "button": {
           "calendly": "Jetzt Termin vereinbaren",
-          "confirm": "Anmeldung abschließen"
+          "confirm": "Anmeldung abschließenabschließenabschließenabschließenabschließen"
         },
         "calendly": "Außerdem möchten wir erfahren, wie wir unsere Software noch besser an deine täglichen Bedürfnisse anpassen können, um dich so noch besser zu unterstützen. Falls du direkt starten möchtest, kannst du Conversionmaker.ai auch ohne ein persönliches Onboarding nutzen.",
         "description": "Vielen Dank, du hast uns alle notwendigen Angaben mitgeteilt und Conversionmaker.ai ist nun einsatzbereit.<br />Bevor du mit deiner kostenlosen Testversion startest, hast du die Möglichkeit, dich für ein persönliches Onboarding anzumelden, in dem wir dir die wichtigsten Funktionen und einige Best Practices vorstellen. 👋",
@@ -793,7 +793,7 @@
           "description": "KI-gestütztes Tool zur einfachen und schnellen Erstellung von hochwertigen Marketingtexten. Steigere deine Umsätze!",
           "og": {
             "description": "KI-gestütztes Tool zur einfachen und schnellen Erstellung von hochwertigen Marketingtexten. Steigere deine Umsätze!",
-            "title": "Ready for Takeoff"
+            "title": "Ready for TakeoffTakeoffTakeoff"
           },
           "title": "Ready for Takeoff"
         }
