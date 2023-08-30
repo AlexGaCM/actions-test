@@ -63,7 +63,7 @@ jobs:
           git checkout main
           
           for file in ${{ env.changes }}; do
-            git checkout dev -- "$file"  # Checkout the file from the dev branch
+            git checkout dev -- "$file"
             git add "$file"
           done
           
