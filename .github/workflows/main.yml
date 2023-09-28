@@ -26,7 +26,7 @@ jobs:
       - name: set up git
         if: env.trigger_patch == 'true'
         run: |
-          git config --global user.email "${{ github.event.pull_request.user.email }}"
+          git config --global user.email "agajer@conversionmaker.com"
           git config --global user.name "${{ github.event.pull_request.user.login }}"
     
       - name: checkout repository
