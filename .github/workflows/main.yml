@@ -33,7 +33,8 @@ jobs:
       - name: set up git
         if: env.trigger_patch == 'true'
         run: |
-          echo "${{ github.event.pull_request.user.login }}"
+          echo "${{ github.event.pull_request.user.email }}"
+          echo "${{ github.event.pull_request.user }}"
           git config --global user.email "agajer@conversionmaker.com"
           git config --global user.name "${{ github.event.pull_request.user.login }}"
     
