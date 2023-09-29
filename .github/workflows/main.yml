@@ -33,13 +33,9 @@ jobs:
       - name: set up git
         if: env.trigger_patch == 'true'
         run: |
-          if [[ ${{ github.event.pull_request.user.login }} == "AlexGaCMa" ]]; then
-            git config --global user.email "alex.gaa83@gmail.com"
-            git config --global user.name "${{ github.event.pull_request.user.login }}"
-          else 
-            echo "invalid user"
-            echo "trigger_patch=false" >> $GITHUB_ENV
-          fi
+          git config --global user.email "alex.gaa83@gmail.com"
+          git config --global user.name "${{ github.event.pull_request.user.login }}"
+
     
       - name: checkout repository
         if: env.trigger_patch == 'true'
